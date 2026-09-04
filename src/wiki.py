@@ -40,13 +40,46 @@ class Evenement:
         return f"{self.annee}|{self.titre_page}"
 
 
+GENERIQUES = re.compile(
+    r"^(France|États-Unis|Etats-Unis|Royaume-Uni|Allemagne|Italie|Espagne|Russie|Chine|"
+    r"Japon|Europe|Afrique|Asie|Amérique|Paris|Londres|New York|Union européenne|"
+    r"Empire|Guerre mondiale)\b", re.I)
+
+
+def _mots(t: str) -> set[str]:
+    return {m.lower() for m in re.findall(r"[A-Za-zÀ-ÿ]{5,}", t)}
+
+
 def _page_de(ev: dict) -> dict | None:
-    """La page la plus pertinente d'un evenement : celle qui a une illustration."""
+    """La page qui parle vraiment de l'evenement, pas le pays ou il s'est produit.
+
+    Le flux Wikipedia lie plusieurs articles a un meme fait ; prendre le premier
+    qui porte une image faisait remonter « France » ou « Etats-Unis », dont la
+    frequentation enorme faussait ensuite le classement.
+    """
     pages = ev.get("pages") or []
     if not pages:
         return None
-    avec_image = [p for p in pages if p.get("originalimage") or p.get("thumbnail")]
-    return (avec_image or pages)[0]
+    fait = _mots(ev.get("text", ""))
+    notes = []
+    for i, p in enumerate(pages):
+        titre = p.get("normalizedtitle") or p.get("title", "")
+        n = len(fait & _mots(titre)) * 2.0
+        n += 1.0 if (p.get("originalimage") or p.get("thumbnail")) else 0.0
+        n += 0.6 if len(p.get("extract") or "") > 200 else 0.0
+        n -= 4.0 if GENERIQUES.match(titre) else 0.0
+        n -= i * 0.4
+        notes.append((n, i, p))
+    return max(notes, key=lambda x: (x[0], -x[1]))[2]
+
+
+def _illustration(ev: dict, page: dict) -> str | None:
+    """L'image de la page de reference, sinon celle d'une autre page du meme fait."""
+    for p in [page] + list(ev.get("pages") or []):
+        src = (p.get("originalimage") or {}).get("source") or (p.get("thumbnail") or {}).get("source")
+        if src:
+            return src
+    return None
 
 
 def _feed(kind: str, jour: dt.date) -> list[dict]:
@@ -71,8 +104,7 @@ def collecter(jour: dt.date) -> list[Evenement]:
                 extrait=(page.get("extract") or "").strip(),
                 description=(page.get("description") or "").strip(),
                 url_page=(page.get("content_urls", {}).get("desktop", {}).get("page") or ""),
-                image_source=(page.get("originalimage") or {}).get("source")
-                or (page.get("thumbnail") or {}).get("source"),
+                image_source=_illustration(ev, page),
                 selectionne=(kind == "selected"),
             )
             if e.cle in brut:

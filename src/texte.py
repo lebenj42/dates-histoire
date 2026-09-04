@@ -21,9 +21,11 @@ _FIN_PHRASE = re.compile(_ABBR + r"(?<=[.!?])\s+(?=[A-ZÉÈÀÂÎÔÛÇ«\"0-9])
 
 
 def _nettoyer(t: str) -> str:
-    t = re.sub(r"\[\d+\]", "", t)                      # appels de note
+    t = re.sub(r"\[[^\]]{0,120}\]", "", t)             # notes et transcriptions phonetiques
+    t = re.sub(r"\s*\((?:photo|image|illustration|illustré|en photo)\)", "", t, flags=re.I)
     t = re.sub(r"\s*\((?:[^()]*?(?:écouter|prononc|API|/[^/]+/)[^()]*?)\)", "", t)
     t = re.sub(r"\s*\(\s*\)", "", t)
+    t = re.sub(r"\s+([,.;:!?])", r"\1", t)
     t = re.sub(r"\s+", " ", t)
     return t.strip()
 
@@ -51,20 +53,59 @@ def titre(ev, maxi: int = 72) -> str:
     return _couper(t, maxi)
 
 
+_DEFINITION = re.compile(
+    r"^[^,]{0,60}\b(?:est|était|sont|fut)\s+(?:un|une|le|la|l'|les|l\u2019)\b|"
+    r"\bné(?:e)?\s+le\b|\bmort(?:e)?\s+le\b|\bsouvent\s+abrégé\b|"
+    r"\ben\s+forme\s+longue\b", re.I)
+
+_VIDES = {"dans", "avec", "pour", "cette", "leurs", "entre", "ainsi", "selon",
+          "depuis", "apres", "après", "elles", "celui", "celle", "plus", "sont",
+          "etre", "être", "leur", "meme", "même"}
+
+
+def _mots_cles(t: str) -> set[str]:
+    return {m.lower() for m in re.findall(r"[A-Za-zÀ-ÿ]{6,}", t)} - _VIDES
+
+
 def resume(ev, maxi: int = 240) -> str:
-    """2 a 3 phrases de contexte, tirees de l'article, jamais une redite du titre."""
-    source = ev.extrait or ev.texte
-    ph = phrases(source)
+    """Les phrases de l'article qui parlent de l'EVENEMENT, pas la definition du sujet.
+
+    Sans cle Claude, c'est une heuristique : on privilegie les phrases qui citent
+    l'annee ou reprennent le vocabulaire du fait, et on ecarte les phrases de
+    definition (« X est un navigateur britannique ne le... »).
+    """
+    ph = phrases(ev.extrait or ev.texte)
     if not ph:
         return _couper(_nettoyer(ev.description or ev.texte), maxi)
-    out = ""
-    for p in ph:
-        if len(out) + len(p) + 1 > maxi:
+
+    cles = _mots_cles(ev.texte)
+    annee = str(ev.annee)
+    notes = []
+    for i, phrase in enumerate(ph):
+        n = 3.0 if annee in phrase else 0.0
+        n += len(cles & _mots_cles(phrase)) * 1.2
+        if _DEFINITION.search(phrase):
+            n -= 2.5
+        n -= i * 0.15                       # a egalite, le debut de l'article
+        notes.append((n, i, phrase))
+
+    # on place d'abord la meilleure phrase, puis on complete tant que ca tient :
+    # sinon une phrase de definition, souvent la premiere, mange tout le budget.
+    retenues, place = [], 0
+    for note, i, phrase in sorted(notes, key=lambda x: -x[0]):
+        if len(retenues) >= 3:
             break
-        out = (out + " " + p).strip()
-    if not out:
-        out = _couper(ph[0], maxi)
-    return out
+        cout = len(phrase) + (1 if retenues else 0)
+        if place + cout > maxi:
+            continue
+        if note < 0 and retenues:
+            break                            # pas de remplissage avec du hors-sujet
+        retenues.append((i, phrase))
+        place += cout
+
+    if not retenues:
+        return _couper(max(notes, key=lambda x: x[0])[2], maxi)
+    return " ".join(p for _, p in sorted(retenues))
 
 
 def habiller(evenements, cfg) -> None:

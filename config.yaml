@@ -15,9 +15,10 @@ contenu:
 
 # ── Images ─────────────────────────────────────────────────────────────
 images:
-  # Licences acceptées (Openverse). Pas de "nd" (pas de modification autorisée),
-  # pas de "sa" (obligerait à repartager le carrousel sous la même licence).
-  openverse_licences: "cc0,pdm,by"
+  # Licences acceptées (Openverse). Pas de "nd" : la modification y est interdite,
+  # or le carrousel recadre et incruste du texte. Le "sa" est accepté (choix assumé) :
+  # les visuels sont alors réutilisables par d'autres en te créditant.
+  openverse_licences: "cc0,pdm,by,by-sa"
   largeur_min: 700
   # Wikimedia Commons n'héberge que des fichiers libres et modifiables :
   # on refuse en revanche les fichiers "fair use" locaux à fr.wikipedia.
