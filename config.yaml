@@ -1,0 +1,56 @@
+# ── Identité de la page ────────────────────────────────────────────────
+page:
+  handle: "@dates.histoire"
+  nom: "Dates d'Histoire"
+  baseline: "Ce jour dans l'histoire"
+  langue: "fr"
+
+# ── Contenu ────────────────────────────────────────────────────────────
+contenu:
+  nb_evenements: 6          # slides d'événements (max 8 : 10 slides IG - couverture - CTA)
+  resume_max_caracteres: 240
+  titre_max_caracteres: 86
+  max_par_decennie: 2       # évite 4 événements de la même décennie
+  annee_min: null           # ex. -3000 pour tout accepter, null = pas de filtre
+
+# ── Images ─────────────────────────────────────────────────────────────
+images:
+  # Licences acceptées (Openverse). Pas de "nd" (pas de modification autorisée),
+  # pas de "sa" (obligerait à repartager le carrousel sous la même licence).
+  openverse_licences: "cc0,pdm,by"
+  largeur_min: 700
+  # Wikimedia Commons n'héberge que des fichiers libres et modifiables :
+  # on refuse en revanche les fichiers "fair use" locaux à fr.wikipedia.
+  commons_uniquement: true
+
+# ── Design ─────────────────────────────────────────────────────────────
+design:
+  largeur: 1080
+  hauteur: 1350
+  fond: "#0B0B0F"
+  texte: "#F5F1E8"
+  accent: "#C9A227"
+  texte_doux: "#A9A29A"
+
+# ── Publication ────────────────────────────────────────────────────────
+publication:
+  heure_paris: 7                       # le workflow ne publie qu'à cette heure locale
+  api_base: "https://graph.instagram.com"   # Instagram Login (recommandé)
+  # api_base: "https://graph.facebook.com"  # Facebook Login (compte relié à une Page)
+  api_version: "v21.0"
+  hashtags:
+    - histoire
+    - cejourdanslhistoire
+    - culturegenerale
+    - histoiredefrance
+    - anecdotehistorique
+    - saviezvous
+    - histoiredumonde
+    - apprendresurinstagram
+    - archives
+    - memoire
+    - chroniquehistorique
+    - ephemeride
+    - passe
+    - documentaire
+    - culture

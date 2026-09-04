@@ -1,0 +1,104 @@
+[
+ {
+  "annee": 476,
+  "texte": "l'empereur romain Romulus Augustule est depose par Odoacre, marquant la fin de l'Empire romain d'Occident.",
+  "titre_page": "Chute de l'Empire romain d'Occident",
+  "extrait": "La deposition de Romulus Augustule par le chef barbare Odoacre est traditionnellement retenue comme la date de la fin de l'Empire romain d'Occident. Odoacre ne prend pas le titre imperial et renvoie les insignes a Constantinople. L'Empire d'Orient, lui, se maintient encore pres de mille ans.",
+  "url_page": "https://fr.wikipedia.org/wiki/Chute_de_l'Empire_romain_d'Occident",
+  "vues": 10000,
+  "photo": {
+   "fichier": "tests/fixtures/photos/p0.jpg",
+   "auteur": "Jeu d'essai",
+   "licence": "CC BY 4.0",
+   "source": "Wikimedia Commons",
+   "page": "",
+   "licence_url": "",
+   "restrictions": ""
+  }
+ },
+ {
+  "annee": 1870,
+  "texte": "en France, la Troisieme Republique est proclamee a l'Hotel de Ville de Paris.",
+  "titre_page": "Proclamation de la Republique francaise du 4 septembre 1870",
+  "extrait": "Deux jours apres la defaite de Sedan et la capture de Napoleon III, la Republique est proclamee a Paris et un gouvernement de defense nationale est forme. Ce regime, d'abord provisoire, deviendra le plus long qu'ait connu la France jusqu'alors.",
+  "url_page": "https://fr.wikipedia.org/wiki/Proclamation_de_la_Republique_francaise_du_4_septembre_1870",
+  "vues": 9500,
+  "photo": {
+   "fichier": "tests/fixtures/photos/p1.jpg",
+   "auteur": "Jeu d'essai",
+   "licence": "CC BY 4.0",
+   "source": "Wikimedia Commons",
+   "page": "",
+   "licence_url": "",
+   "restrictions": ""
+  }
+ },
+ {
+  "annee": 1888,
+  "texte": "George Eastman depose le brevet de son appareil photographique a pellicule et la marque Kodak.",
+  "titre_page": "Kodak",
+  "extrait": "L'appareil est vendu charge d'un rouleau de cent vues : le client renvoie le boitier entier a l'usine pour le developpement. Ce systeme fait sortir la photographie du cercle des professionnels et ouvre la voie a la photographie amateur.",
+  "url_page": "https://fr.wikipedia.org/wiki/Kodak",
+  "vues": 9000,
+  "photo": {
+   "fichier": "tests/fixtures/photos/p2.jpg",
+   "auteur": "Jeu d'essai",
+   "licence": "CC BY 4.0",
+   "source": "Wikimedia Commons",
+   "page": "",
+   "licence_url": "",
+   "restrictions": ""
+  }
+ },
+ {
+  "annee": 1948,
+  "texte": "la reine Wilhelmine des Pays-Bas abdique en faveur de sa fille Juliana apres cinquante ans de regne.",
+  "titre_page": "Wilhelmine (reine des Pays-Bas)",
+  "extrait": "Montee sur le trone a dix ans, Wilhelmine avait incarne la resistance neerlandaise depuis Londres pendant l'occupation allemande. Son abdication, pour raisons de sante, met fin a l'un des plus longs regnes de l'histoire du pays.",
+  "url_page": "https://fr.wikipedia.org/wiki/Wilhelmine_(reine_des_Pays-Bas)",
+  "vues": 8500,
+  "photo": {
+   "fichier": "tests/fixtures/photos/p3.jpg",
+   "auteur": "Jeu d'essai",
+   "licence": "CC BY 4.0",
+   "source": "Wikimedia Commons",
+   "page": "",
+   "licence_url": "",
+   "restrictions": ""
+  }
+ },
+ {
+  "annee": 1970,
+  "texte": "Salvador Allende est elu a la presidence chilienne.",
+  "titre_page": "Salvador Allende",
+  "extrait": "Candidat de l'Unite populaire, Allende devient le premier marxiste porte a la tete d'un Etat par une election libre. Son programme de nationalisations sera interrompu trois ans plus tard par le coup d'Etat du 11 septembre 1973.",
+  "url_page": "https://fr.wikipedia.org/wiki/Salvador_Allende",
+  "vues": 8000,
+  "photo": {
+   "fichier": "tests/fixtures/photos/p4.jpg",
+   "auteur": "Jeu d'essai",
+   "licence": "CC BY 4.0",
+   "source": "Wikimedia Commons",
+   "page": "",
+   "licence_url": "",
+   "restrictions": ""
+  }
+ },
+ {
+  "annee": 1998,
+  "texte": "Larry Page et Sergey Brin fondent officiellement Google dans un garage de Menlo Park.",
+  "titre_page": "Google",
+  "extrait": "Nee d'un projet de these a Stanford sur le classement des pages web, la societe est immatriculee avec un premier cheque de cent mille dollars. Son moteur de recherche depassera en quelques annees tous ses concurrents.",
+  "url_page": "https://fr.wikipedia.org/wiki/Google",
+  "vues": 7500,
+  "photo": {
+   "fichier": "tests/fixtures/photos/p5.jpg",
+   "auteur": "Jeu d'essai",
+   "licence": "CC BY 4.0",
+   "source": "Wikimedia Commons",
+   "page": "",
+   "licence_url": "",
+   "restrictions": ""
+  }
+ }
+]
