@@ -115,6 +115,31 @@ def collecter(jour: dt.date) -> list[Evenement]:
     return list(brut.values())
 
 
+INTRO = "https://fr.wikipedia.org/w/api.php"
+
+
+def enrichir(evenements: list[Evenement]) -> None:
+    """Recupere l'introduction complete des articles retenus.
+
+    Le flux 'onthisday' ne donne que 1 a 3 phrases, presque toujours la definition
+    du sujet (« Los Angeles est la deuxieme plus grande ville... »). L'introduction
+    complete contient en general le passage qui parle vraiment de l'evenement.
+    """
+    if not evenements:
+        return
+    titres = "|".join(e.titre_page for e in evenements[:20])
+    data = get_json(INTRO, {"action": "query", "format": "json", "formatversion": "2",
+                            "prop": "extracts", "exintro": "1", "explaintext": "1",
+                            "redirects": "1", "titles": titres})
+    pages = ((data or {}).get("query") or {}).get("pages") or []
+    par_titre = {p.get("title", ""): (p.get("extract") or "") for p in pages}
+    for e in evenements:
+        texte_long = par_titre.get(e.titre_page, "")
+        if len(texte_long) > len(e.extrait):
+            e.extrait = texte_long
+            log.info("%s : introduction complete (%s caracteres)", e.annee, len(texte_long))
+
+
 def _mois_complets(n: int = 3) -> tuple[str, str]:
     fin = dt.date.today().replace(day=1) - dt.timedelta(days=1)
     debut = fin.replace(day=1)

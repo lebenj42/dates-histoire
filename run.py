@@ -62,6 +62,7 @@ def generer(jour: dt.date, cfg: dict, fixture: Path | None = None,
         evenements = wiki.classer(evenements, cfg["contenu"]["nb_evenements"],
                                   cfg["contenu"]["max_par_decennie"],
                                   etat.deja_publies(jour))
+        wiki.enrichir(evenements)
     texte.habiller(evenements, cfg)
     if not sans_photos:
         images.illustrer(evenements, cfg, CACHE)

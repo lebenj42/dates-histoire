@@ -84,6 +84,9 @@ def resume(ev, maxi: int = 240) -> str:
     for i, phrase in enumerate(ph):
         n = 3.0 if annee in phrase else 0.0
         n += len(cles & _mots_cles(phrase)) * 1.2
+        if re.search(r"\b(fond|cré|proclam|élu|élue|signé|adopt|inaugur|découvr|"
+                     r"aperç|conclu|renvers|abdiqu|promulg|lanc|ouvr)", phrase, re.I):
+            n += 1.5                          # phrases qui racontent un fait, pas un etat
         if _DEFINITION.search(phrase):
             n -= 2.5
         n -= i * 0.15                       # a egalite, le debut de l'article
@@ -128,6 +131,10 @@ def _polir_llm(evenements, cfg) -> None:
         "Tu rediges les slides d'un carrousel Instagram d'histoire, en francais, ton factuel et "
         "vivant, sans emphase ni superlatif, sans emoji, sans inventer le moindre fait : tu ne peux "
         "utiliser que ce qui figure dans 'fait' et 'contexte'.\n"
+        "Le resume doit parler de L'EVENEMENT (ce qui s'est passe cette annee-la, pourquoi cela "
+        "compte, ce que cela a change), jamais definir le sujet : « Los Angeles est la deuxieme "
+        "ville des Etats-Unis » est un mauvais resume pour la fondation de 1781. Si le contexte "
+        "n'apporte rien sur l'evenement, developpe le fait lui-meme plutot que de decrire le sujet.\n"
         f"Pour chaque entree : 'titre' de {cfg['contenu']['titre_max_caracteres']} caracteres maximum "
         "(pas de point final, pas de date dans le titre) et 'resume' de "
         f"{cfg['contenu']['resume_max_caracteres']} caracteres maximum (1 a 3 phrases completes qui "
