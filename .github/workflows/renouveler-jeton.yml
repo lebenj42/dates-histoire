@@ -1,0 +1,20 @@
+name: Renouveler le jeton Instagram
+
+on:
+  schedule:
+    - cron: "0 4 1 * *"    # le 1er de chaque mois (le jeton dure 60 jours)
+  workflow_dispatch:
+
+jobs:
+  jeton:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests
+      - env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python tools/renouveler_jeton.py
