@@ -1,6 +1,6 @@
 {
  "date": "2026-09-04",
- "genere_le": "2026-09-04T16:28:51",
+ "genere_le": "2026-09-04T16:41:09",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,30 +11,30 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 4 septembre\n\n1774 · James Cook et son équipage sont les premiers Européens à apercevoir la…\n1781 · La ville de Los Angeles (photo) est fondée\n1870 · En France, la Troisième République est proclamée\n1970 · Salvador Allende est élu à la présidence chilienne\n1998 · Création de Google, par Larry Page et Sergey Brin…\n2018 · En France, annonce de la démission de la ministre des Sports Laura Flessel pour…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1774 : Nathaniel Dance-Holland · Public domain · Wikimedia Commons\n1781 : Dietmar Rabich · CC BY-SA 4.0 · Wikimedia Commons\n1870 : Windrain · CC BY-SA 4.0 · Wikimedia Commons\n1970 : James N. Wallace · Public domain · Wikimedia Commons\n1998 : Asoundd · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 4 septembre\n\n1774 · James Cook et son équipage sont les premiers Européens à apercevoir la…\n1781 · La ville de Los Angeles est fondée\n1797 · Un coup d'État survient en France\n1870 · En France, la Troisième République est proclamée\n1914 · Convention de Londres, entre les gouvernements de Grande-Bretagne…\n1970 · Salvador Allende est élu à la présidence chilienne\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1774 : European Union, Copernicus Sentinel-3 imagery · Attribution · Wikimedia Commons\n1781 : Dietmar Rabich · CC BY-SA 4.0 · Wikimedia Commons\n1797 : Pierre Gabriel Berthault / After Abraham Girardet · Public domain · Wikimedia Commons\n1870 : Windrain · CC BY-SA 4.0 · Wikimedia Commons\n1914 : Jean Bourdichon · Public domain · Wikimedia Commons\n1970 : James N. Wallace · Public domain · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1774,
    "titre": "James Cook et son équipage sont les premiers Européens à apercevoir la…",
-   "resume": "James Cook est un navigateur, explorateur et cartographe britannique, né le 7 novembre 1728 à Marton (Middlesbrough) et mort le 14 février 1779 à Hawaï.",
-   "cle": "1774|James Cook",
-   "vues_wikipedia": 4855,
-   "score": 11.373,
-   "url": "https://fr.wikipedia.org/wiki/James_Cook",
+   "resume": "La Nouvelle-Calédonie est un ensemble d'îles et d'archipels français, faisant partie de la Mélanésie et de l'Océanie lointaine.",
+   "cle": "1774|Nouvelle-Calédonie",
+   "vues_wikipedia": 21320,
+   "score": 13.158,
+   "url": "https://fr.wikipedia.org/wiki/Nouvelle-Cal%C3%A9donie",
    "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/1920px-Captainjamescookportrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Nathaniel Dance-Holland",
-    "licence": "Public domain",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/New_Caledonia_after_the_passage_of_tropical_cyclone_Niran.jpg/1920px-New_Caledonia_after_the_passage_of_tropical_cyclone_Niran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "European Union, Copernicus Sentinel-3 imagery",
+    "licence": "Attribution",
     "licence_url": "",
     "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Captainjamescookportrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:New_Caledonia_after_the_passage_of_tropical_cyclone_Niran.jpg",
     "restrictions": ""
    }
   },
   {
    "annee": 1781,
-   "titre": "La ville de Los Angeles (photo) est fondée",
-   "resume": "Los Angeles, souvent abrégé en L.A., est la deuxième plus grande ville des États-Unis en nombre d'habitants, juste après New York.",
+   "titre": "La ville de Los Angeles est fondée",
+   "resume": "Elle est située dans le Sud de l'État de Californie, dans la région de l'Ouest des États-Unis et sur la côte du Pacifique.",
    "cle": "1781|Los Angeles",
    "vues_wikipedia": 15088,
    "score": 12.857,
@@ -46,6 +46,24 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "Wikimedia Commons",
     "page": "https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_South_Olive_Street_--_2012_--_4847.jpg",
+    "restrictions": ""
+   }
+  },
+  {
+   "annee": 1797,
+   "titre": "Un coup d'État survient en France",
+   "resume": "Ce coup d'État marque un renforcement de l'exécutif au détriment du pouvoir législatif.",
+   "cle": "1797|Coup d'État du 18 fructidor an V",
+   "vues_wikipedia": 895,
+   "score": 10.405,
+   "url": "https://fr.wikipedia.org/wiki/Coup_d'%C3%89tat_du_18_fructidor_an_V",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Journ%C3%A9e_c%C3%A9l%C3%A8bre_du_18_fructidor_an_5%2C_Pierre-Gabriel_Berthault%2C_1802.jpg/1920px-Journ%C3%A9e_c%C3%A9l%C3%A8bre_du_18_fructidor_an_5%2C_Pierre-Gabriel_Berthault%2C_1802.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Pierre Gabriel Berthault / After Abraham Girardet",
+    "licence": "Public domain",
+    "licence_url": "",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Journ%C3%A9e_c%C3%A9l%C3%A8bre_du_18_fructidor_an_5,_Pierre-Gabriel_Berthault,_1802.jpg",
     "restrictions": ""
    }
   },
@@ -68,9 +86,27 @@
    }
   },
   {
+   "annee": 1914,
+   "titre": "Convention de Londres, entre les gouvernements de Grande-Bretagne…",
+   "resume": "La Grande-Bretagne est une île au large du littoral nord-ouest de l'Europe continentale.",
+   "cle": "1914|Grande-Bretagne",
+   "vues_wikipedia": 7655,
+   "score": 9.768,
+   "url": "https://fr.wikipedia.org/wiki/Grande-Bretagne",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Grandes_Heures_Anne_de_Bretagne_Saint_Marc.jpg/1920px-Grandes_Heures_Anne_de_Bretagne_Saint_Marc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Jean Bourdichon",
+    "licence": "Public domain",
+    "licence_url": "",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Grandes_Heures_Anne_de_Bretagne_Saint_Marc.jpg",
+    "restrictions": ""
+   }
+  },
+  {
    "annee": 1970,
    "titre": "Salvador Allende est élu à la présidence chilienne",
-   "resume": "Salvador Guillermo Allende Gossens [salβaˈðoɾ ɡiˈʎeɾmo aˈʎende ˈɣosens], né à Valparaiso le 26 juin 1908 et mort à Santiago le 11 septembre 1973, est un homme d'État chilien.",
+   "resume": "Salvador Guillermo Allende Gossens, né à Valparaiso le 26 juin 1908 et mort à Santiago le 11 septembre 1973, est un homme d'État chilien. Il est président de la république du Chili du 3 novembre 1970 à sa mort.",
    "cle": "1970|Salvador Allende",
    "vues_wikipedia": 6462,
    "score": 12.121,
@@ -84,34 +120,6 @@
     "page": "https://commons.wikimedia.org/wiki/File:Allende_supporters.jpg",
     "restrictions": ""
    }
-  },
-  {
-   "annee": 1998,
-   "titre": "Création de Google, par Larry Page et Sergey Brin…",
-   "resume": "Google LLC, prononcé en français [gu.gœl], est une entreprise américaine de services technologiques et de marketing en ligne fondée en 1998 dans la Silicon Valley, en Californie, par Larry Page et Sergey Brin…",
-   "cle": "1998|Google",
-   "vues_wikipedia": 67866,
-   "score": 11.663,
-   "url": "https://fr.wikipedia.org/wiki/Google",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/1920px-Googleplex_HQ_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Asoundd",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Googleplex_HQ_(cropped).jpg",
-    "restrictions": "trademarked"
-   }
-  },
-  {
-   "annee": 2018,
-   "titre": "En France, annonce de la démission de la ministre des Sports Laura Flessel pour…",
-   "resume": "La France, en forme longue la République française, est un État souverain transcontinental dont le territoire métropolitain s'étend en Europe de l'Ouest et dont le territoire ultramarin s'étend dans les océans Indien…",
-   "cle": "2018|France",
-   "vues_wikipedia": 204294,
-   "score": 12.621,
-   "url": "https://fr.wikipedia.org/wiki/France",
-   "photo": {}
   }
  ]
 }
