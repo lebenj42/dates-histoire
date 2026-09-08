@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "genere_le": "2026-09-08T09:44:37",
+ "genere_le": "2026-09-08T11:05:06",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 8 septembre\n\n1429 · Attaque de Paris par Jeanne d'Arc, qui est une nouvelle fois blessée\n1941 · Début du siège de Léningrad (Seconde Guerre mondiale)\n1943 · Début de la libération de la Corse\n1978 · Vendredi noir durant la révolution iranienne;\n1991 · Déclaration d'indépendance de la république de Macédoine\n2008 · Roger Federer remporte pour la cinquième fois consécutive l'US Open de tennis. Grâce…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1429 : Brocken Inaglory · CC BY-SA 3.0 · Wikimedia Commons\n1941 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1943 : Chabe01 · CC BY-SA 4.0 · Wikimedia Commons\n1991 : Auteur inconnu · Public domain · Wikimedia Commons\n2008 : Dominicus Johannes Bergsma · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 8 septembre\n\n1429 · Attaque de Paris par Jeanne d'Arc, qui est une nouvelle fois blessée\n1941 · Début du siège de Léningrad (Seconde Guerre mondiale)\n1961 · Échec d'un attentat à la bombe contre de Gaulle, sur la route de Colombey…\n1978 · Vendredi noir durant la révolution iranienne;\n1991 · Déclaration d'indépendance de la république de Macédoine\n1994 · Première diffusion, aux États-Unis, de la série New York Undercover\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1429 : Brocken Inaglory · CC BY-SA 3.0 · Wikimedia Commons\n1941 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1961 : Didier Descouens · CC BY-SA 4.0 · Wikimedia Commons\n1978 : Unknown authorUnknown author · GFDL · Wikimedia Commons\n1991 : DescriptionTsrna (rivière) OSM.png This map was created from · CC BY-SA 4.0 · Wikimedia\n1994 : Constitutional Convention · Public domain · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1429,
@@ -50,20 +50,20 @@
    }
   },
   {
-   "annee": 1943,
-   "titre": "Début de la libération de la Corse",
-   "resume": "Le 9 septembre 1943 est proclamé le ralliement de la Résistance corse à la France combattante de De Gaulle. Ils accostent le 13 septembre 1943 à 1 h 15, 24 heures avant les contre-torpilleurs français Fantasque et Terrible.",
-   "cle": "1943|Libération de la Corse",
-   "vues_wikipedia": 1893,
-   "score": 11.055,
-   "url": "https://fr.wikipedia.org/wiki/Lib%C3%A9ration_de_la_Corse",
+   "annee": 1961,
+   "titre": "Échec d'un attentat à la bombe contre de Gaulle, sur la route de Colombey…",
+   "resume": "Pendant la Seconde Guerre mondiale, Charles de Gaulle fonde la France libre; à la Libération, il préside le gouvernement provisoire à partir de 1944 jusqu'en 1946.",
+   "cle": "1961|Charles de Gaulle",
+   "vues_wikipedia": 151479,
+   "score": 12.361,
+   "url": "https://fr.wikipedia.org/wiki/Charles_de_Gaulle",
    "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Plaque_Lib%C3%A9ration_Corse_4_Octobre_1943_-_Bastia_%28FR2B%29_-_2021-09-12_-_1.jpg/1920px-Plaque_Lib%C3%A9ration_Corse_4_Octobre_1943_-_Bastia_%28FR2B%29_-_2021-09-12_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Chabe01",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/31_-_Toulouse_-_Square_Charles-de-Gaulle_-_Statue_de_Claude_Nougaro_-_S%C3%A9bastien_Langlo%C3%BFs.jpg/1920px-31_-_Toulouse_-_Square_Charles-de-Gaulle_-_Statue_de_Claude_Nougaro_-_S%C3%A9bastien_Langlo%C3%BFs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Didier Descouens",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Plaque_Lib%C3%A9ration_Corse_4_Octobre_1943_-_Bastia_(FR2B)_-_2021-09-12_-_1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:31_-_Toulouse_-_Square_Charles-de-Gaulle_-_Statue_de_Claude_Nougaro_-_S%C3%A9bastien_Langlo%C3%BFs.jpg",
     "restrictions": ""
    }
   },
@@ -75,7 +75,15 @@
    "vues_wikipedia": 4202,
    "score": 11.247,
    "url": "https://fr.wikipedia.org/wiki/R%C3%A9volution_iranienne",
-   "photo": {}
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mass_demonstration_in_Iran%2C_date_unknown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "Unknown authorUnknown author",
+    "licence": "GFDL",
+    "licence_url": "http://www.gnu.org/copyleft/fdl.html",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Mass_demonstration_in_Iran,_date_unknown.jpg",
+    "restrictions": ""
+   }
   },
   {
    "annee": 1991,
@@ -86,30 +94,30 @@
    "score": 13.005,
    "url": "https://fr.wikipedia.org/wiki/Mac%C3%A9doine_du_Nord",
    "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Carte_de_la_partie_m%C3%A9ridionale_de_la_Mac%C3%A9doine_au_Nord_et_%C3%A0_l%27Est_de_Salonique._1_-_750_000_env_-_btv1b84949108_%281_of_2%29.jpg/1920px-Carte_de_la_partie_m%C3%A9ridionale_de_la_Mac%C3%A9doine_au_Nord_et_%C3%A0_l%27Est_de_Salonique._1_-_750_000_env_-_btv1b84949108_%281_of_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Auteur inconnu",
-    "licence": "Public domain",
-    "licence_url": "",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Carte_de_la_partie_m%C3%A9ridionale_de_la_Mac%C3%A9doine_au_Nord_et_%C3%A0_l%27Est_de_Salonique._1_-_750_000_env_-_btv1b84949108_(1_of_2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tsrna_%28rivi%C3%A8re%29_OSM.png",
+    "auteur": "DescriptionTsrna (rivière) OSM.png This map was created from",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "Wikimedia",
+    "page": "https://commons.wikimedia.org/w/index.php?curid=109927712",
     "restrictions": ""
    }
   },
   {
-   "annee": 2008,
-   "titre": "Roger Federer remporte pour la cinquième fois consécutive l'US Open de tennis. Grâce…",
-   "resume": "Au tennis, le Grand Chelem est le fait de remporter, la même année, les quatre tournois majeurs du circuit international organisés sous l'égide de la Fédération internationale de tennis.",
-   "cle": "2008|Grand Chelem (tennis)",
-   "vues_wikipedia": 35460,
-   "score": 11.1,
-   "url": "https://fr.wikipedia.org/wiki/Grand_Chelem_(tennis)",
+   "annee": 1994,
+   "titre": "Première diffusion, aux États-Unis, de la série New York Undercover",
+   "resume": "Les États-Unis adoptent l'anglais comme langue officielle le 1er mars 2025, l'anglais américain ayant servi de facto de langue nationale depuis l'indépendance du pays.",
+   "cle": "1994|États-Unis",
+   "vues_wikipedia": 92501,
+   "score": 11.932,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89tats-Unis",
    "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Hosta_%27Grand_Slam%27._%28d.j.b.%29_02.jpg/1920px-Hosta_%27Grand_Slam%27._%28d.j.b.%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Dominicus Johannes Bergsma",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_%28page_1%29.jpg/1920px-Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Constitutional Convention",
+    "licence": "Public domain",
+    "licence_url": "",
     "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Hosta_%27Grand_Slam%27._(d.j.b.)_02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_(page_1).jpg",
     "restrictions": ""
    }
   }
