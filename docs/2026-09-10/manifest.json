@@ -1,6 +1,6 @@
 {
  "date": "2026-09-10",
- "genere_le": "2026-09-10T09:30:15",
+ "genere_le": "2026-09-10T11:01:21",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,30 +11,30 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 10 septembre\n\n1898 · Assassinat d'Élisabeth de Wittelsbach par Luigi Lucheni\n1915 · Lancement de l'hebdomadaire satirique français Le Canard enchaîné\n1919 · Signature du traité de Saint-Germain qui entérine la dislocation de…\n1939 · Le Canada entre en guerre contre le Troisième Reich\n1974 · Indépendance de la Guinée-Bissau\n2002 · Adhésion de la Suisse à l'ONU\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1898 : Suzy1919 · CC BY-SA 4.0 · Wikimedia\n1915 : William Jexpire · CC BY-SA 4.0 · Wikimedia Commons\n1919 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1939 : Adolf Hitler · Public domain · Wikimedia Commons\n1974 : Gadogado123 · CC BY-SA 4.0 · Wikimedia Commons\n2002 : Giles Laurent · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 10 septembre\n\n1898 · Assassinat d'Élisabeth de Wittelsbach par Luigi Lucheni\n1915 · Lancement de l'hebdomadaire satirique français Le Canard enchaîné\n1919 · Signature du traité de Saint-Germain qui entérine la dislocation de…\n1939 · Le Canada entre en guerre contre le Troisième Reich\n1974 · Indépendance de la Guinée-Bissau\n2002 · Adhésion de la Suisse à l'ONU\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1898 : Emil Rabending · Public domain · Wikimedia Commons\n1915 : William Jexpire · CC BY-SA 4.0 · Wikimedia Commons\n1919 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1939 : Adolf Hitler · Public domain · Wikimedia Commons\n1974 : Gadogado123 · CC BY-SA 4.0 · Wikimedia Commons\n2002 : Giles Laurent · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1898,
    "titre": "Assassinat d'Élisabeth de Wittelsbach par Luigi Lucheni",
-   "resume": "Son assassinat, en 1898, fait la manchette de la presse européenne d'alors, car elle jouit d'une bonne réputation sur le continent en raison de sa beauté et des tragédies qui marquent sa vie.",
+   "resume": "Élisabeth de Wittelsbach — plus connue sous le surnom de « Sissi » —, née le 24 décembre 1837 à Munich (Bavière) et morte assassinée le 10 septembre 1898 à Genève (Suisse), est duchesse en Bavière puis, par son mariage…",
    "cle": "1898|Élisabeth de Wittelsbach",
    "vues_wikipedia": 35696,
    "score": 11.105,
    "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_de_Wittelsbach",
    "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/100elles_%C3%89lisabeth_de_Wittelsbach_-_Quai_du_Mont_Blanc.jpg",
-    "auteur": "Suzy1919",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "source": "Wikimedia",
-    "page": "https://commons.wikimedia.org/w/index.php?curid=79985449",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Isabel_da_%C3%81ustria_1867.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "Emil Rabending",
+    "licence": "Public domain",
+    "licence_url": "",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Isabel_da_%C3%81ustria_1867.jpg",
     "restrictions": ""
    }
   },
   {
    "annee": 1915,
    "titre": "Lancement de l'hebdomadaire satirique français Le Canard enchaîné",
-   "resume": "Fondé le 10 septembre 1915 par Jeanne et Maurice Maréchal, aidés par Henri-Paul Deyvaux-Gassier, c'est le plus ancien titre de presse satirique encore actif en France.",
+   "resume": "Le Canard enchaîné est un hebdomadaire français satirique et d'enquête paraissant le mercredi.",
    "cle": "1915|Le Canard enchaîné",
    "vues_wikipedia": 6182,
    "score": 11.582,
@@ -70,7 +70,7 @@
   {
    "annee": 1939,
    "titre": "Le Canada entre en guerre contre le Troisième Reich",
-   "resume": "L'Autriche est annexée en 1938 et la Tchécoslovaquie en 1939. Une alliance est signée avec l'URSS et la Pologne est envahie en septembre 1939, ce qui déclenche la Seconde Guerre mondiale à l'échelle européenne.",
+   "resume": "Le Troisième Reich est la période de l'histoire de l'Allemagne qui se déroule de janvier 1933 à mai 1945, lorsque le pays était dirigé par Adolf Hitler et le Parti nazi.",
    "cle": "1939|Troisième Reich",
    "vues_wikipedia": 16998,
    "score": 12.461,
@@ -106,7 +106,7 @@
   {
    "annee": 2002,
    "titre": "Adhésion de la Suisse à l'ONU",
-   "resume": "Le pays a une longue tradition de neutralité politique et militaire et n'a rejoint l'Organisation des Nations unies (ONU) qu'en 2002.",
+   "resume": "La Suisse, en forme longue la Confédération suisse, est un État fédéral d'Europe centrale et de l'Ouest, formé de 26 cantons, avec Berne pour capitale de facto.",
    "cle": "2002|Suisse",
    "vues_wikipedia": 57775,
    "score": 13.523,
