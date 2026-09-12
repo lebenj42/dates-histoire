@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "genere_le": "2026-09-12T09:09:28",
+ "genere_le": "2026-09-12T10:25:08",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,26 +11,8 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 12 septembre\n\n1801 · Annexion de la Géorgie par la Russie\n1914 · Fin de la première bataille de la Marne (Première Guerre mondiale)\n1938 · Hitler réclame l'annexion des Sudètes à la Tchécoslovaquie\n1940 · Découverte de la grotte de Lascaux\n1953 · Le futur président américain John Fitzgerald Kennedy et Jacqueline Lee Bouvier se…\n2005 · Israël achève son retrait de la bande de Gaza\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1801 : Vyacheslav Argenberg · CC BY 4.0 · Wikimedia Commons\n1914 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1940 : EU · Public domain · Wikimedia Commons\n1953 : Aaron Shikler · Public domain · Wikimedia Commons\n2005 : Kobi Gideon · CC BY-SA 3.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 12 septembre\n\n1914 · Fin de la première bataille de la Marne (Première Guerre mondiale)\n1938 · Hitler réclame l'annexion des Sudètes à la Tchécoslovaquie\n1940 · Découverte de la grotte de Lascaux\n1943 · Opération Eiche (Seconde Guerre mondiale)\n1953 · Le futur président américain John Fitzgerald Kennedy et Jacqueline Lee Bouvier se…\n2005 · Israël achève son retrait de la bande de Gaza\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1914 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1938 : UnknownUnknown · CC BY-SA 3.0 de · Wikimedia Commons\n1940 : EU · Public domain · Wikimedia Commons\n1943 : Rama · CC BY-SA 2.0 · Wikimedia\n1953 : Aaron Shikler · Public domain · Wikimedia Commons\n2005 : Kobi Gideon · CC BY-SA 3.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
-  {
-   "annee": 1801,
-   "titre": "Annexion de la Géorgie par la Russie",
-   "resume": "La Géorgie (en géorgien: საქართველო (Sakartvelo), prononcé /sɑkʰɑrtʰvɛlɔ/ ) est un pays sur la côte est de la mer Noire dans le Caucase, situé à la fois en Europe de l'Est et en Asie de l'Ouest.",
-   "cle": "1801|Géorgie (pays)",
-   "vues_wikipedia": 26125,
-   "score": 10.834,
-   "url": "https://fr.wikipedia.org/wiki/G%C3%A9orgie_(pays)",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Abudelauri_valley_under_clouds%2C_early_summer%2C_Georgia.jpg/1920px-Abudelauri_valley_under_clouds%2C_early_summer%2C_Georgia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Vyacheslav Argenberg",
-    "licence": "CC BY 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Abudelauri_valley_under_clouds,_early_summer,_Georgia.jpg",
-    "restrictions": ""
-   }
-  },
   {
    "annee": 1914,
    "titre": "Fin de la première bataille de la Marne (Première Guerre mondiale)",
@@ -57,7 +39,15 @@
    "vues_wikipedia": 49120,
    "score": 11.383,
    "url": "https://fr.wikipedia.org/wiki/Adolf_Hitler",
-   "photo": {}
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bundesarchiv_Bild_121-0723%2C_Marburg-Drau%2C_Adolf_Hitler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "UnknownUnknown",
+    "licence": "CC BY-SA 3.0 de",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_121-0723,_Marburg-Drau,_Adolf_Hitler.jpg",
+    "restrictions": ""
+   }
   },
   {
    "annee": 1940,
@@ -74,6 +64,24 @@
     "licence_url": "",
     "source": "Wikimedia Commons",
     "page": "https://commons.wikimedia.org/wiki/File:Lascaux_painting.jpg",
+    "restrictions": ""
+   }
+  },
+  {
+   "annee": 1943,
+   "titre": "Opération Eiche (Seconde Guerre mondiale)",
+   "resume": "La Seconde Guerre mondiale, ou Deuxième Guerre mondiale, est un conflit armé à l'échelle planétaire qui dure du 1er septembre 1939 au 2 septembre 1945.",
+   "cle": "1943|Seconde Guerre mondiale",
+   "vues_wikipedia": 43621,
+   "score": 11.279,
+   "url": "https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale",
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Sabre-seconde-guerre-mondiale-p1000712.jpg",
+    "auteur": "Rama",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en/",
+    "source": "Wikimedia",
+    "page": "https://commons.wikimedia.org/w/index.php?curid=288353",
     "restrictions": ""
    }
   },
