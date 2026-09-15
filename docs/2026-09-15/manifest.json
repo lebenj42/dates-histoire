@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "genere_le": "2026-09-15T09:54:00",
+ "genere_le": "2026-09-15T11:30:13",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,12 +11,12 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 15 septembre\n\n1821 · Indépendance du Costa Rica, du Guatemala, du Salvador…\n1935 · Adoption des lois de Nuremberg par l'Allemagne nazie\n1944 · Début de la bataille de Peleliu opposant les États-Unis et le Japon lors de la guerre…\n1997 · Enregistrement du nom de domaine « google.com »\n2008 · Faillite de la banque Lehman Brothers pendant la crise bancaire et financière de…\n2021 · L'Australie, les États-Unis et le Royaume-Uni annoncent la formation de l'alliance…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1821 : Infrogmation · CC BY-SA 3.0 · Wikimedia Commons\n1935 : German Government (\"Entwurf Willi Hackenberger\", \"Copyright  · Public domain · Wikimedia Commons\n1944 : Thomas C. Lea III · Public domain · Wikimedia Commons\n1997 : Raphael5161 · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 15 septembre\n\n1821 · Indépendance du Costa Rica, du Guatemala, du Salvador…\n1935 · Adoption des lois de Nuremberg par l'Allemagne nazie\n1940 · Victoire, pour le Royaume-Uni et sa Royal Air Force, sur les Allemands…\n1944 · Début de la bataille de Peleliu opposant les États-Unis et le Japon lors de la guerre…\n1997 · Enregistrement du nom de domaine « google.com »\n2008 · Faillite de la banque Lehman Brothers pendant la crise bancaire et financière de…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1821 : Infrogmation · CC BY-SA 3.0 · Wikimedia Commons\n1935 : German Government (\"Entwurf Willi Hackenberger\", \"Copyright  · Public domain · Wikimedia Commons\n1940 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1944 : Thomas C. Lea III · Public domain · Wikimedia Commons\n1997 : Raphael5161 · CC BY-SA 4.0 · Wikimedia\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1821,
    "titre": "Indépendance du Costa Rica, du Guatemala, du Salvador…",
-   "resume": "Le Guatemala ou Guatémala, en forme longue la république du Guatemala ou république du Guatémala, est un pays d'Amérique centrale frontalier avec quatre pays: le Mexique, le Belize, le Salvador et le Honduras.",
+   "resume": "Il est bordé au nord-est par la mer des Caraïbes et à l'ouest-sud-ouest par l'océan Pacifique.",
    "cle": "1821|Guatemala",
    "vues_wikipedia": 8395,
    "score": 12.348,
@@ -34,7 +34,7 @@
   {
    "annee": 1935,
    "titre": "Adoption des lois de Nuremberg par l'Allemagne nazie",
-   "resume": "Les lois de Nuremberg sont trois textes adoptés par le Reichstag à l'initiative d'Adolf Hitler, lors d'une session du parlement tenue à Nuremberg à l'occasion du septième congrès annuel du Parti nazi…",
+   "resume": "Les trois lois sont publiées au Reichsgesetzblatt le 16 septembre 1935 et entrent en vigueur le jour de leur promulgation.",
    "cle": "1935|Lois de Nuremberg",
    "vues_wikipedia": 2970,
    "score": 11.446,
@@ -50,9 +50,27 @@
    }
   },
   {
+   "annee": 1940,
+   "titre": "Victoire, pour le Royaume-Uni et sa Royal Air Force, sur les Allemands…",
+   "resume": "La Seconde Guerre mondiale, ou Deuxième Guerre mondiale, est un conflit armé à l'échelle planétaire qui dure du 1er septembre 1939 au 2 septembre 1945.",
+   "cle": "1940|Seconde Guerre mondiale",
+   "vues_wikipedia": 43621,
+   "score": 11.279,
+   "url": "https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg/1920px-Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Gzen92",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_(Dieffenthal).jpg",
+    "restrictions": ""
+   }
+  },
+  {
    "annee": 1944,
    "titre": "Début de la bataille de Peleliu opposant les États-Unis et le Japon lors de la guerre…",
-   "resume": "La bataille de Peleliu, nom de code opération Stalemate II, s'est déroulée durant la Seconde Guerre mondiale entre les États-Unis et le Japon dans le Pacifique entre septembre et novembre 1944 sur l'île de Peleliu dans l'archipel des…",
+   "resume": "Cette bataille est sûrement la plus controversée de la guerre, en raison de la valeur stratégique douteuse de l'île et du grand nombre de morts.",
    "cle": "1944|Bataille de Peleliu",
    "vues_wikipedia": 1226,
    "score": 10.678,
@@ -70,39 +88,29 @@
   {
    "annee": 1997,
    "titre": "Enregistrement du nom de domaine « google.com »",
-   "resume": "Un nom de domaine est, dans le système de noms de domaine DNS, un identifiant de domaine Internet.",
+   "resume": "Un nom de domaine (NDD en notation abrégée française ou DN pour Domain Name en anglais) est, dans le système de noms de domaine DNS, un identifiant de domaine Internet.",
    "cle": "1997|Nom de domaine",
    "vues_wikipedia": 1077,
    "score": 10.565,
    "url": "https://fr.wikipedia.org/wiki/Nom_de_domaine",
    "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nom_de_domaine_signal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nom_de_domaine_signal.jpg",
     "auteur": "Raphael5161",
     "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Nom_de_domaine_signal.jpg",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "Wikimedia",
+    "page": "https://commons.wikimedia.org/w/index.php?curid=114420416",
     "restrictions": ""
    }
   },
   {
    "annee": 2008,
    "titre": "Faillite de la banque Lehman Brothers pendant la crise bancaire et financière de…",
-   "resume": "La crise bancaire et financière de la fin de l'été 2008, aussi connue comme la crise estivale de 2008, est la seconde phase de la crise financière mondiale de 2007-2008…",
+   "resume": "D'autres marquent rétrospectivement le début de cette phase avec la nationalisation de Freddie Mac et Fannie Mae le 6 septembre 2008.",
    "cle": "2008|Crise bancaire et financière de l'automne 2008",
    "vues_wikipedia": 1075,
    "score": 10.564,
    "url": "https://fr.wikipedia.org/wiki/Crise_bancaire_et_financi%C3%A8re_de_l'automne_2008",
-   "photo": {}
-  },
-  {
-   "annee": 2021,
-   "titre": "L'Australie, les États-Unis et le Royaume-Uni annoncent la formation de l'alliance…",
-   "resume": "Elle comprend la partie continentale du continent australien, l'île de Tasmanie ainsi que de nombreuses petites îles.",
-   "cle": "2021|Australie",
-   "vues_wikipedia": 27981,
-   "score": 10.894,
-   "url": "https://fr.wikipedia.org/wiki/Australie",
    "photo": {}
   }
  ]
