@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "genere_le": "2026-09-16T09:49:22",
+ "genere_le": "2026-09-16T11:15:06",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 16 septembre\n\n1380 · Avènement du roi de France Charles VI, qui sera par la suite surnommé « le Fou »\n1620 · Le Mayflower quitte Plymouth à destination du Nouveau Monde\n1824 · Charles X devient roi de France, à la suite de la mort de son frère Louis XVIII\n1908 · Fondation de la compagnie General Motors\n1982 · Au Liban, début du massacre de Sabra et Chatila, qui durera deux jours\n1987 · Signature du protocole de Montréal sur la protection de la couche d'ozone (carte) par…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1380 : Attributed to Mazarine Master · Public domain · Wikimedia Commons\n1620 : TouN · CC BY-SA 4.0 · Wikimedia Commons\n1824 : François Gérard · Public domain · Wikimedia Commons\n1982 : UNRWA Archive Photographer Unknown · CC BY-SA 3.0 igo · Wikimedia Commons\n1987 : NASA/Goddard Space Flight Center Scientific Visualization St · Public domain · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 16 septembre\n\n1380 · Avènement du roi de France Charles VI, qui sera par la suite surnommé « le Fou »\n1620 · Le Mayflower quitte Plymouth à destination du Nouveau Monde\n1824 · Charles X devient roi de France, à la suite de la mort de son frère Louis XVIII\n1908 · Fondation de la compagnie General Motors\n1982 · Au Liban, début du massacre de Sabra et Chatila, qui durera deux jours\n1987 · Signature du protocole de Montréal sur la protection de la couche d'ozone (carte) par…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1380 : Attributed to Mazarine Master · Public domain · Wikimedia Commons\n1620 : TouN · CC BY-SA 4.0 · Wikimedia Commons\n1908 : Vervaardiger: Fototechnische Dienst Rotterdam ( Gemeentewerk · CC BY 4.0 · Wikimedia Commons\n1982 : UNRWA Archive Photographer Unknown · CC BY-SA 3.0 igo · Wikimedia Commons\n1987 : NASA/Goddard Space Flight Center Scientific Visualization St · Public domain · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1380,
@@ -57,15 +57,7 @@
    "vues_wikipedia": 22091,
    "score": 10.688,
    "url": "https://fr.wikipedia.org/wiki/Louis_XVIII",
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "auteur": "François Gérard",
-    "licence": "Public domain",
-    "licence_url": "",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg",
-    "restrictions": ""
-   }
+   "photo": {}
   },
   {
    "annee": 1908,
@@ -75,7 +67,15 @@
    "vues_wikipedia": 4068,
    "score": 11.719,
    "url": "https://fr.wikipedia.org/wiki/General_Motors",
-   "photo": {}
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/1958_Bedrijfspand_van_General_Motors_%28GM%29_aan_het_Parmentierplein%2C_Rotterdam.jpg/1920px-1958_Bedrijfspand_van_General_Motors_%28GM%29_aan_het_Parmentierplein%2C_Rotterdam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Vervaardiger: Fototechnische Dienst Rotterdam ( Gemeentewerk",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:1958_Bedrijfspand_van_General_Motors_(GM)_aan_het_Parmentierplein,_Rotterdam.jpg",
+    "restrictions": ""
+   }
   },
   {
    "annee": 1982,
