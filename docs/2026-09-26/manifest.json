@@ -1,6 +1,6 @@
 {
  "date": "2026-09-26",
- "genere_le": "2026-09-26T09:48:04",
+ "genere_le": "2026-09-26T11:09:44",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 26 septembre\n\n1350 · Couronnement du roi de France Jean II le Bon en la cathédrale de Reims\n1815 · La Sainte-Alliance est fondée à Vienne, en Autriche\n1905 · Albert Einstein publie sa théorie de la relativité restreinte\n2002 · Au Sénégal, naufrage du ferry Le Joola, causant 1 863 victimes\n2002 · Le naufrage du ferry sénégalais Le Joola au large de la Gambie fait 1 863 victimes\n2014 · Enlèvements d'Iguala au Mexique\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1350 : Gennadii Saus i Segura · CC BY-SA 4.0 · Wikimedia Commons\n1815 : Andrieu, Bertrand ou Jean-Bertrand (Bordeaux, 04–11–1761 - P · CC0 · Wikimedia Commons\n1905 : Oren Jack Turner · Public domain · Wikimedia Commons\n2002 : Adjoajo · CC BY-SA 4.0 · Wikimedia Commons\n2002 : Yaamboo · CC BY-SA 3.0 · Wikimedia\n2014 : PetrohsW · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 26 septembre\n\n1350 · Couronnement du roi de France Jean II le Bon en la cathédrale de Reims\n1815 · La Sainte-Alliance est fondée à Vienne, en Autriche\n1905 · Albert Einstein publie sa théorie de la relativité restreinte\n2002 · Au Sénégal, naufrage du ferry Le Joola, causant 1 863 victimes\n2002 · Le naufrage du ferry sénégalais Le Joola au large de la Gambie fait 1 863 victimes\n2014 · Enlèvements d'Iguala au Mexique\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1350 : Gennadii Saus i Segura · CC BY-SA 4.0 · Wikimedia Commons\n1815 : Andrieu, Bertrand ou Jean-Bertrand (Bordeaux, 04–11–1761 - P · CC0 · Wikimedia Commons\n1905 : Oren Jack Turner · Public domain · Wikimedia Commons\n2002 : Adjoajo · CC BY-SA 4.0 · Wikimedia Commons\n2002 : Yaamboo · CC BY-SA 3.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1350,
@@ -94,12 +94,12 @@
    "score": 10.867,
    "url": "https://fr.wikipedia.org/wiki/Le_Joola",
    "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Le_Joola_car_deck.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Le_Joola_at_Ziguinchor_1991.jpg/1920px-Le_Joola_at_Ziguinchor_1991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "auteur": "Yaamboo",
     "licence": "CC BY-SA 3.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "source": "Wikimedia",
-    "page": "https://commons.wikimedia.org/w/index.php?curid=14929933",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Le_Joola_at_Ziguinchor_1991.jpg",
     "restrictions": ""
    }
   },
@@ -111,15 +111,7 @@
    "vues_wikipedia": 546,
    "score": 9.976,
    "url": "https://fr.wikipedia.org/wiki/Enl%C3%A8vements_d'Iguala",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Ayotzinapa20150726_ohs059.jpg/1920px-Ayotzinapa20150726_ohs059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "PetrohsW",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Ayotzinapa20150726_ohs059.jpg",
-    "restrictions": ""
-   }
+   "photo": {}
   }
  ]
 }
