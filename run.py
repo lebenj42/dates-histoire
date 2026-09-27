@@ -3,6 +3,7 @@
 
   python run.py generer                 # fabrique le carrousel du jour dans docs/AAAA-MM-JJ/
   python run.py generer --date 1969-07-20
+  python run.py generer --omniroute http://localhost:20128/v1   # textes reecrits via OmniRoute
   python run.py publier --base-url https://raw.githubusercontent.com/moi/depot/main/docs
 """
 from __future__ import annotations
@@ -136,6 +137,10 @@ def main() -> None:
     g.add_argument("--date")
     g.add_argument("--fixture", type=Path, help="jeu d'essai hors ligne")
     g.add_argument("--sans-photos", action="store_true")
+    g.add_argument("--omniroute", metavar="URL",
+                   help="passerelle OmniRoute pour reecrire titres et resumes "
+                        "(ex. http://localhost:20128/v1)")
+    g.add_argument("--modele", help="modele ou combo OmniRoute (defaut : auto)")
 
     b = sp.add_parser("publier", help="publie le carrousel deja genere")
     b.add_argument("--date")
@@ -149,6 +154,11 @@ def main() -> None:
     jour = dt.date.fromisoformat(a.date) if a.date else aujourdhui_paris()
 
     if a.commande == "generer":
+        llm = cfg["llm"] = cfg.get("llm") or {}
+        if a.omniroute:
+            llm["omniroute_url"] = a.omniroute
+        if a.modele:
+            llm["modele"] = a.modele
         generer(jour, cfg, a.fixture, a.sans_photos)
     else:
         if a.garde_heure is not None and heure_paris() != a.garde_heure:

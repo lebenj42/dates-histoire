@@ -115,16 +115,49 @@ def habiller(evenements, cfg) -> None:
     for e in evenements:
         e.titre = titre(e, cfg["contenu"]["titre_max_caracteres"])
         e.resume = resume(e, cfg["contenu"]["resume_max_caracteres"])
-    if os.environ.get("ANTHROPIC_API_KEY"):
-        _polir_llm(evenements, cfg)
+    if omniroute_url(cfg):
+        _polir_llm(evenements, cfg, _appel_omniroute, "OmniRoute")
+    elif os.environ.get("ANTHROPIC_API_KEY"):
+        _polir_llm(evenements, cfg, _appel_anthropic, "Claude")
 
 
-def _polir_llm(evenements, cfg) -> None:
-    """Optionnel : reecriture des titres/resumes par Claude. Sans cle, on garde les regles."""
-    try:
-        import anthropic  # type: ignore
-    except ImportError:
-        return
+def omniroute_url(cfg) -> str:
+    """URL de la passerelle OmniRoute (ex. http://localhost:20128/v1), ou "" si absente."""
+    url = os.environ.get("OMNIROUTE_BASE_URL") or (cfg.get("llm") or {}).get("omniroute_url") or ""
+    return url.rstrip("/")
+
+
+def _appel_omniroute(consigne: str, cfg) -> str:
+    """OmniRoute parle le format OpenAI : POST {base}/chat/completions."""
+    import requests
+    llm = cfg.get("llm") or {}
+    entetes = {"Content-Type": "application/json"}
+    if os.environ.get("OMNIROUTE_API_KEY"):    # inutile en local, utile si la passerelle est exposee
+        entetes["Authorization"] = f"Bearer {os.environ['OMNIROUTE_API_KEY']}"
+    r = requests.post(
+        f"{omniroute_url(cfg)}/chat/completions",
+        headers=entetes,
+        json={"model": os.environ.get("OMNIROUTE_MODEL") or llm.get("modele") or "auto",
+              "max_tokens": 2000,
+              "messages": [{"role": "user", "content": consigne}]},
+        timeout=llm.get("timeout", 120),
+    )
+    r.raise_for_status()
+    return r.json()["choices"][0]["message"]["content"]
+
+
+def _appel_anthropic(consigne: str, cfg) -> str:
+    import anthropic  # type: ignore
+    rep = anthropic.Anthropic().messages.create(
+        model=os.environ.get("ANTHROPIC_MODEL", "claude-sonnet-4-5"),
+        max_tokens=2000,
+        messages=[{"role": "user", "content": consigne}],
+    )
+    return rep.content[0].text
+
+
+def _polir_llm(evenements, cfg, appel, nom: str) -> None:
+    """Optionnel : reecriture des titres/resumes par un LLM. Sans LLM, on garde les regles."""
     charge = [{"i": i, "annee": e.annee, "fait": e.texte, "contexte": e.extrait[:600]}
               for i, e in enumerate(evenements)]
     consigne = (
@@ -143,13 +176,7 @@ def _polir_llm(evenements, cfg) -> None:
         + json.dumps(charge, ensure_ascii=False)
     )
     try:
-        client = anthropic.Anthropic()
-        rep = client.messages.create(
-            model=os.environ.get("ANTHROPIC_MODEL", "claude-sonnet-4-5"),
-            max_tokens=2000,
-            messages=[{"role": "user", "content": consigne}],
-        )
-        txt = rep.content[0].text.strip()
+        txt = appel(consigne, cfg).strip()
         txt = txt[txt.find("["): txt.rfind("]") + 1]
         for item in json.loads(txt):
             e = evenements[int(item["i"])]
@@ -157,7 +184,7 @@ def _polir_llm(evenements, cfg) -> None:
                 e.titre = _couper(item["titre"].strip().rstrip("."), cfg["contenu"]["titre_max_caracteres"])
             if item.get("resume"):
                 e.resume = _couper(item["resume"].strip(), cfg["contenu"]["resume_max_caracteres"])
-        log.info("Titres et resumes affines par Claude")
+        log.info("Titres et resumes affines par %s", nom)
     except Exception as exc:  # noqa: BLE001
         log.warning("Reecriture LLM ignoree (%s) : on garde la version automatique", exc)
 
