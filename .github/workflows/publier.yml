@@ -38,6 +38,9 @@ jobs:
         env:
           CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # facultatif
+          OMNIROUTE_BASE_URL: ${{ secrets.OMNIROUTE_BASE_URL }} # facultatif, prioritaire sur Claude
+          OMNIROUTE_API_KEY: ${{ secrets.OMNIROUTE_API_KEY }}   # facultatif
+          OMNIROUTE_MODEL: ${{ secrets.OMNIROUTE_MODEL }}       # facultatif (defaut : auto)
         run: python run.py generer ${{ github.event.inputs.date && format('--date {0}', github.event.inputs.date) || '' }}
 
       - name: Publier les images sur le depot (hebergement public)

@@ -13,6 +13,15 @@ contenu:
   max_par_decennie: 2       # évite 4 événements de la même décennie
   annee_min: null           # ex. -3000 pour tout accepter, null = pas de filtre
 
+# ── Réécriture des textes par un LLM (facultatif) ──────────────────────
+llm:
+  # Passerelle OmniRoute (https://github.com/diegosouzapw/OmniRoute), format OpenAI.
+  # null = pas d'OmniRoute (on utilise Claude si ANTHROPIC_API_KEY est défini, sinon les règles).
+  # Surchargé par la variable OMNIROUTE_BASE_URL ou l'option --omniroute.
+  omniroute_url: null       # ex. "http://localhost:20128/v1"
+  modele: "auto"            # modèle ou combo OmniRoute : "auto", "auto/cheap", "openai/gpt-5.4"…
+  timeout: 120
+
 # ── Images ─────────────────────────────────────────────────────────────
 images:
   # Licences acceptées (Openverse). Pas de "nd" : la modification y est interdite,

@@ -44,6 +44,9 @@ les identifiants vivent dans les secrets GitHub.
 | `CONTACT_EMAIL` | recommandé | exigé par les règles d'usage des API Wikimedia |
 | `GH_PAT` | facultatif | jeton GitHub (droit `secrets: write`) pour que le renouvellement du jeton s'écrive tout seul |
 | `ANTHROPIC_API_KEY` | facultatif | fait réécrire titres et résumés par Claude au lieu des règles automatiques |
+| `OMNIROUTE_BASE_URL` | facultatif | URL publique d'une passerelle [OmniRoute](https://github.com/diegosouzapw/OmniRoute) (ex. `https://ma-passerelle.exemple/v1`) ; prioritaire sur Claude |
+| `OMNIROUTE_API_KEY` | facultatif | clé de la passerelle OmniRoute si elle en exige une |
+| `OMNIROUTE_MODEL` | facultatif | modèle ou combo OmniRoute (défaut : `auto`) |
 
 ## 4. Premier essai
 
@@ -61,6 +64,24 @@ python run.py generer                      # carrousel du jour dans docs/
 python run.py generer --date 1969-07-20    # n'importe quelle date
 python run.py publier --base-url https://raw.githubusercontent.com/moi/dates-histoire/main/docs --essai
 ```
+
+### Réécriture des textes via OmniRoute
+
+[OmniRoute](https://github.com/diegosouzapw/OmniRoute) est une passerelle locale compatible
+OpenAI qui route vers de nombreux fournisseurs de LLM, avec bascule automatique.
+
+```bash
+npm install -g omniroute && omniroute        # ou : docker run -p 20128:20128 diegosouzapw/omniroute
+python run.py generer --omniroute http://localhost:20128/v1
+python run.py generer --omniroute http://localhost:20128/v1 --modele auto/cheap
+```
+
+L'URL peut aussi être fixée dans `config.yaml` (`llm.omniroute_url`) ou par la variable
+`OMNIROUTE_BASE_URL`. Si OmniRoute ne répond pas, le carrousel est quand même généré
+avec les textes automatiques.
+
+Sur GitHub Actions, `localhost` ne désigne pas ta machine : le secret `OMNIROUTE_BASE_URL`
+doit pointer vers une passerelle joignable depuis Internet, et protégée par une clé.
 
 ---
 
@@ -91,7 +112,7 @@ polices, heure de publication, hashtags. Le design vit dans `src/rendu.py`
 run.py                 generer / publier
 config.yaml            tous les réglages éditoriaux et graphiques
 src/wiki.py            événements du jour + classement par notoriété
-src/texte.py           titres et résumés (règles, ou Claude si clé fournie)
+src/texte.py           titres et résumés (règles, ou OmniRoute / Claude si configurés)
 src/images.py          photos libres de droit + licences
 src/rendu.py           slides 1080x1350
 src/legende.py         légende, crédits, hashtags
