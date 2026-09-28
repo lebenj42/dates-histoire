@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "genere_le": "2026-09-28T11:36:16",
+ "genere_le": "2026-09-28T13:27:09",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 28 septembre\n\n1066 · Débarquement de Guillaume le Conquérant à Pevensey\n1794 · Création en France de la future École polytechnique\n1864 · Fondation de l'Association internationale des travailleurs (« Première Internationale…\n1914 · Début du siège d’Anvers (Première Guerre mondiale)\n1994 · Le naufrage de l'Estonia en mer Baltique fait 852 morts sur les 989 personnes…\n2000 · Début de la seconde intifada\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1066 : CelticBrain · CC BY-SA 4.0 · Wikimedia Commons\n1794 : David Monniaux · CC BY-SA 3.0 · Wikimedia Commons\n1864 : Nattes à chat · CC BY-SA 4.0 · Wikimedia Commons\n1914 : G.Garitan · CC BY-SA 4.0 · Wikimedia\n1994 : Auteur inconnu · CC BY-SA 3.0 · Wikimedia Commons\n2000 : Nadav Ganot (נדב גנות) / Israel Defense Forces · CC BY-SA 3.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 28 septembre\n\n1066 · Débarquement de Guillaume le Conquérant à Pevensey\n1864 · Fondation de l'Association internationale des travailleurs (« Première Internationale…\n1914 · Début du siège d’Anvers (Première Guerre mondiale)\n1994 · Le naufrage de l'Estonia en mer Baltique fait 852 morts sur les 989 personnes…\n2000 · Début de la seconde intifada\n2000 · Le Danemark refuse d'adhérer à la zone euro par référendum\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1066 : CelticBrain · CC BY-SA 4.0 · Wikimedia Commons\n1864 : Nattes à chat · CC BY-SA 4.0 · Wikimedia Commons\n1914 : G.Garitan · CC BY-SA 4.0 · Wikimedia\n1994 : Auteur inconnu · CC BY-SA 3.0 · Wikimedia Commons\n2000 : Nadav Ganot (נדב גנות) / Israel Defense Forces · CC BY-SA 3.0 · Wikimedia Commons\n2000 : Slaunger · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1066,
@@ -28,24 +28,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "Wikimedia Commons",
     "page": "https://commons.wikimedia.org/wiki/File:Histoire_de_la_langue_anglaise.jpg",
-    "restrictions": ""
-   }
-  },
-  {
-   "annee": 1794,
-   "titre": "Création en France de la future École polytechnique",
-   "resume": "Elle est fondée en 1794 par la Convention nationale sous le nom d'École centrale des travaux publics, et militarisée en 1804 par Napoléon Ier. L'École assure depuis sa création la formation d'ingénieurs généralistes.",
-   "cle": "1794|École polytechnique (France)",
-   "vues_wikipedia": 16199,
-   "score": 10.419,
-   "url": "https://fr.wikipedia.org/wiki/%C3%89cole_polytechnique_(France)",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ecole_Polytechnique_France_seen_from_lake_DSC03389.JPG/1920px-Ecole_Polytechnique_France_seen_from_lake_DSC03389.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "David Monniaux",
-    "licence": "CC BY-SA 3.0",
-    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Ecole_Polytechnique_France_seen_from_lake_DSC03389.JPG",
     "restrictions": ""
    }
   },
@@ -118,6 +100,24 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
     "source": "Wikimedia Commons",
     "page": "https://commons.wikimedia.org/wiki/File:%D7%90%D7%95%D7%A7%D7%98%D7%95%D7%91%D7%A8_2000_2.jpg",
+    "restrictions": ""
+   }
+  },
+  {
+   "annee": 2000,
+   "titre": "Le Danemark refuse d'adhérer à la zone euro par référendum",
+   "resume": "Il est considéré comme un territoire d'outre-mer du Danemark et de l'Union européenne.",
+   "cle": "2000|Danemark",
+   "vues_wikipedia": 21271,
+   "score": 10.656,
+   "url": "https://fr.wikipedia.org/wiki/Danemark",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Two_beached_fishing_vessels%2C_N%C3%B8rre_Vorup%C3%B8r%2C_Denmark%2C_2015-07-09-5588.jpg/1920px-Two_beached_fishing_vessels%2C_N%C3%B8rre_Vorup%C3%B8r%2C_Denmark%2C_2015-07-09-5588.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Slaunger",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Two_beached_fishing_vessels,_N%C3%B8rre_Vorup%C3%B8r,_Denmark,_2015-07-09-5588.jpg",
     "restrictions": ""
    }
   }
