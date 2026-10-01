@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "genere_le": "2026-10-01T11:32:23",
+ "genere_le": "2026-10-01T12:50:09",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 1er octobre\n\n-331 · Victoire d'Alexandre le Grand de Macédoine sur le Perse achéménide Darius III lors…\n1890 · Le parc national de Yosemite est créé aux États-Unis, le deuxième du pays\n1891 · L'université Stanford est fondée aux États-Unis\n1946 · Verdict du tribunal de Nuremberg sur les crimes de guerre et crimes contre l'humanité…\n1960 · Indépendances du Nigeria et de Chypre\n2017 · L'Union européenne met un terme aux quotas sucriers\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n-331 : Eric Pouhier · CC BY-SA 4.0 · Wikimedia Commons\n1890 : Diliff · CC BY-SA 3.0 · Wikimedia Commons\n1891 : King of Hearts · CC BY-SA 3.0 · Wikimedia Commons\n1946 : Jpcuvelier · CC BY-SA 4.0 · Wikimedia Commons\n2017 : Oguzkaan76 · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 1er octobre\n\n-331 · Victoire d'Alexandre le Grand de Macédoine sur le Perse achéménide Darius III lors…\n1890 · Le parc national de Yosemite est créé aux États-Unis, le deuxième du pays\n1891 · L'université Stanford est fondée aux États-Unis\n1946 · Verdict du tribunal de Nuremberg sur les crimes de guerre et crimes contre l'humanité…\n1960 · Indépendances du Nigeria et de Chypre\n2017 · L'Union européenne met un terme aux quotas sucriers\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n-331 : Eric Pouhier · CC BY-SA 4.0 · Wikimedia Commons\n1890 : Diliff · CC BY-SA 3.0 · Wikimedia Commons\n1891 : King of Hearts · CC BY-SA 3.0 · Wikimedia Commons\n1946 : Romainbehar · CC0 · Wikimedia\n1960 : Ngostary2k · CC0 · Wikimedia Commons\n2017 : Oguzkaan76 · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": -331,
@@ -76,12 +76,12 @@
    "score": 10.904,
    "url": "https://fr.wikipedia.org/wiki/Crime_contre_l'humanit%C3%A9",
    "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Charleville-M%C3%A9zi%C3%A8res_%E2%80%94_Monument_aux_Victimes_des_Pers%C3%A9cutions_Racistes_%26_Antis%C3%A9mites_et_des_Crimes_Contre_l%27Humanit%C3%A9_1940-1944.jpg/1920px-Charleville-M%C3%A9zi%C3%A8res_%E2%80%94_Monument_aux_Victimes_des_Pers%C3%A9cutions_Racistes_%26_Antis%C3%A9mites_et_des_Crimes_Contre_l%27Humanit%C3%A9_1940-1944.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Jpcuvelier",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Charleville-M%C3%A9zi%C3%A8res_%E2%80%94_Monument_aux_Victimes_des_Pers%C3%A9cutions_Racistes_%26_Antis%C3%A9mites_et_des_Crimes_Contre_l%27Humanit%C3%A9_1940-1944.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lyon_5e_-_Palais_de_justice_historique_-_Salle_des_pas_perdus_-_Plaque_Premi%C3%A8re_condamnation_pour_crime_contre_l%27humanit%C3%A9.jpg",
+    "auteur": "Romainbehar",
+    "licence": "CC0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+    "source": "Wikimedia",
+    "page": "https://commons.wikimedia.org/w/index.php?curid=152968378",
     "restrictions": ""
    }
   },
@@ -93,7 +93,15 @@
    "vues_wikipedia": 21370,
    "score": 10.66,
    "url": "https://fr.wikipedia.org/wiki/Nigeria",
-   "photo": {}
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Wiki_Conference_Nigeria_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "Ngostary2k",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Wiki_Conference_Nigeria_11.jpg",
+    "restrictions": ""
+   }
   },
   {
    "annee": 2017,
