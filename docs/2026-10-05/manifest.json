@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "genere_le": "2026-10-05T12:11:05",
+ "genere_le": "2026-10-05T14:11:14",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,26 +11,8 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 5 octobre\n\n578 · Mort de Justin II et accession au trône byzantin de Tibère II Constantin\n1795 · Insurrection royaliste du 13 vendémiaire an IV à Paris\n1908 · Annexion de la Bosnie-Herzégovine par l'Autriche-Hongrie et indépendance de la…\n1947 · Création du Kominform qui succède au Komintern\n1962 · Publication en Grande-Bretagne de Love Me Do, le premier single des Beatles\n2023 · Le prix Nobel de littérature est attribué au Norvégien Jon Fosse « pour ses pièces de…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n578 : Tibère Constantin. Autorité émettrice de monnaie Empire byza · Public domain · Wikimedia Commons\n1795 : Charles Monnet · Public domain · Wikimedia Commons\n1908 : Ludovic Lepeltier-Kutasi · CC BY-SA 4.0 · Wikimedia Commons\n1947 : Vlada Marinković · CC BY-SA 3.0 · Wikimedia Commons\n1962 : Jean Bourdichon · Public domain · Wikimedia Commons\n2023 : Skblzz1 · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 5 octobre\n\n1795 · Insurrection royaliste du 13 vendémiaire an IV à Paris\n1908 · Annexion de la Bosnie-Herzégovine par l'Autriche-Hongrie et indépendance de la…\n1947 · Création du Kominform qui succède au Komintern\n1962 · Publication en Grande-Bretagne de Love Me Do, le premier single des Beatles\n1994 · Suicide collectif de la secte Ordre du Temple solaire\n2023 · Le prix Nobel de littérature est attribué au Norvégien Jon Fosse « pour ses pièces de…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1795 : Charles Monnet · Public domain · Wikimedia Commons\n1908 : Ludovic Lepeltier-Kutasi · CC BY-SA 4.0 · Wikimedia Commons\n1947 : Vlada Marinković · CC BY-SA 3.0 · Wikimedia Commons\n1962 : Jean Bourdichon · Public domain · Wikimedia Commons\n2023 : Skblzz1 · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
-  {
-   "annee": 578,
-   "titre": "Mort de Justin II et accession au trône byzantin de Tibère II Constantin",
-   "resume": "Tibère II Constantin, officiellement Constantin comme nom de règne (latin: Flavius Tiberius Constantinus Augustus, grec ancien: Τιβέριος Β′ Κωνσταντίνος) (vers 526-14 août 582) est un empereur byzantin de 578 à 582.",
-   "cle": "578|Tibère II Constantin",
-   "vues_wikipedia": 388,
-   "score": 9.68,
-   "url": "https://fr.wikipedia.org/wiki/Tib%C3%A8re_II_Constantin",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Monnaie._Follis%2C_Tib%C3%A8re_Constantin%2C_Empire_byzantin_-_btv1b10455853g_%281_of_2%29.jpg/1920px-Monnaie._Follis%2C_Tib%C3%A8re_Constantin%2C_Empire_byzantin_-_btv1b10455853g_%281_of_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Tibère Constantin. Autorité émettrice de monnaie Empire byza",
-    "licence": "Public domain",
-    "licence_url": "",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Monnaie._Follis,_Tib%C3%A8re_Constantin,_Empire_byzantin_-_btv1b10455853g_(1_of_2).jpg",
-    "restrictions": ""
-   }
-  },
   {
    "annee": 1795,
    "titre": "Insurrection royaliste du 13 vendémiaire an IV à Paris",
@@ -102,6 +84,16 @@
     "page": "https://commons.wikimedia.org/wiki/File:Grandes_Heures_Anne_de_Bretagne_Saint_Marc.jpg",
     "restrictions": ""
    }
+  },
+  {
+   "annee": 1994,
+   "titre": "Suicide collectif de la secte Ordre du Temple solaire",
+   "resume": "L'Ordre du Temple solaire, abrégé OTS, est un mouvement religieux ésotérique néotemplier, fondé en 1984 à Saconnex-d'Arve, en Suisse, par Luc Jouret et Joseph Di Mambro.",
+   "cle": "1994|Ordre du Temple solaire",
+   "vues_wikipedia": 10945,
+   "score": 10.079,
+   "url": "https://fr.wikipedia.org/wiki/Ordre_du_Temple_solaire",
+   "photo": {}
   },
   {
    "annee": 2023,
