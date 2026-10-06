@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "genere_le": "2026-10-06T11:55:13",
+ "genere_le": "2026-10-06T13:08:17",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 6 octobre\n\n1789 · Le roi de France Louis XVI et la famille royale quittent Versailles pour les…\n1799 · Victoire du général français Guillaume Brune à la bataille de Castricum\n1973 · Début de la guerre du Kippour, opposant Israël à l'Égypte et la Syrie\n1981 · Le président égyptien Anouar el-Sadate est assassiné au cours d'une revue militaire…\n2008 · Krach boursier au cours duquel les bourses mondiales enregistrent une baisse de 20 %…\n2025 · En France, le Premier ministre Sébastien Lecornu démissionne au lendemain de…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1789 : Didier Descouens · Public domain · Wikimedia Commons\n1799 : Eugène Battaille / After Marie-Guillemine Benoist · Public domain · Wikimedia Commons\n1973 : Bamahane photographer · CC BY-SA 3.0 · Wikimedia Commons\n1981 : From a variety of images credited above. · CC BY 4.0 · Wikimedia Commons\n2025 : Alexandra Lebon · Licence Ouverte · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 6 octobre\n\n1789 · Le roi de France Louis XVI et la famille royale quittent Versailles pour les…\n1789 · Sous la contrainte, Louis XVI, Marie-Antoinette, et leurs deux enfants…\n1973 · Début de la guerre du Kippour, opposant Israël à l'Égypte et la Syrie\n1981 · Le président égyptien Anouar el-Sadate est assassiné au cours d'une revue militaire…\n2008 · Krach boursier au cours duquel les bourses mondiales enregistrent une baisse de 20 %…\n2025 · En France, le Premier ministre Sébastien Lecornu démissionne au lendemain de…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1789 : Didier Descouens · Public domain · Wikimedia Commons\n1789 : After Jean-Baptiste André Gautier-Dagoty · Public domain · Wikimedia Commons\n1981 : From a variety of images credited above. · CC BY 4.0 · Wikimedia Commons\n2025 : Alexandra Lebon · Licence Ouverte · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1789,
@@ -32,20 +32,20 @@
    }
   },
   {
-   "annee": 1799,
-   "titre": "Victoire du général français Guillaume Brune à la bataille de Castricum",
-   "resume": "Guillaume Brune, né le 13 mars 1763 à Brive-la-Gaillarde et mort assassiné le 2 août 1815 à Avignon, est un homme politique et militaire français.",
-   "cle": "1799|Guillaume Brune",
-   "vues_wikipedia": 1054,
-   "score": 10.547,
-   "url": "https://fr.wikipedia.org/wiki/Guillaume_Brune",
+   "annee": 1789,
+   "titre": "Sous la contrainte, Louis XVI, Marie-Antoinette, et leurs deux enfants…",
+   "resume": "Après huit ans de mariage, elle donne naissance à Marie-Thérèse, première de ses quatre enfants. Aux débuts de la Révolution française, elle est placée en résidence surveillée au palais des Tuileries, avec la famille royale.",
+   "cle": "1789|Marie-Antoinette d'Autriche",
+   "vues_wikipedia": 26599,
+   "score": 10.85,
+   "url": "https://fr.wikipedia.org/wiki/Marie-Antoinette_d'Autriche",
    "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Guillaume_Marie-Anne%2C_comte_de_Brune%2C_mar%C3%A9chal_de_France_%281763-1815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "auteur": "Eugène Battaille / After Marie-Guillemine Benoist",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "After Jean-Baptiste André Gautier-Dagoty",
     "licence": "Public domain",
     "licence_url": "",
     "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Guillaume_Marie-Anne,_comte_de_Brune,_mar%C3%A9chal_de_France_(1763-1815).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Marie-Antoinette,_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg",
     "restrictions": ""
    }
   },
@@ -57,15 +57,7 @@
    "vues_wikipedia": 5604,
    "score": 11.497,
    "url": "https://fr.wikipedia.org/wiki/Guerre_du_Kippour",
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Yom_Kippur_War._XXXVII.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "auteur": "Bamahane photographer",
-    "licence": "CC BY-SA 3.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Yom_Kippur_War._XXXVII.jpg",
-    "restrictions": ""
-   }
+   "photo": {}
   },
   {
    "annee": 1981,
