@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "genere_le": "2026-10-10T11:05:18",
+ "genere_le": "2026-10-10T12:15:24",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 10 octobre\n\n1863 · Maximilien d'Autriche (portrait) accepte le trône impérial du Mexique\n1913 · Fin du percement du canal de Panama\n1954 · Naissance du Front de libération nationale en Algérie\n2017 · Au Liberia, élections générales\n2019 · Deux prix Nobel de littérature sont décernés cette année…\n2025 · En France, le Premier ministre Sébastien Lecornu, qui avait démissionné le 6 octobre…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1863 : Jebulon · CC0 · Wikimedia Commons\n1913 : Issued by Compagnie Universelle Canal Océanique de Panama, r · Public domain · Wikimedia Commons\n1954 : National Liberation Front (Algeria) · Public domain · Wikimedia Commons\n2017 : Unknown authorUnknown author · Public domain · Wikimedia Commons\n2019 : Skblzz1 · CC BY-SA 4.0 · Wikimedia\n2025 : Alexandra Lebon · Licence Ouverte · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 10 octobre\n\n1863 · Maximilien d'Autriche (portrait) accepte le trône impérial du Mexique\n1913 · Fin du percement du canal de Panama\n1954 · Naissance du Front de libération nationale en Algérie\n2017 · Au Liberia, élections générales\n2024 · Le prix Nobel de littérature est attribué à la romancière Sud-coréenne Han Kang\n2025 · En France, le Premier ministre Sébastien Lecornu, qui avait démissionné le 6 octobre…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1863 : Jebulon · CC0 · Wikimedia Commons\n1913 : Issued by Compagnie Universelle Canal Océanique de Panama, r · Public domain · Wikimedia Commons\n1954 : National Liberation Front (Algeria) · Public domain · Wikimedia Commons\n2024 : Skblzz1 · CC BY-SA 4.0 · Wikimedia Commons\n2025 : Alexandra Lebon · Licence Ouverte · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1863,
@@ -75,31 +75,23 @@
    "vues_wikipedia": 11807,
    "score": 10.144,
    "url": "https://fr.wikipedia.org/wiki/Liberia",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Lib%C3%A9ria_10_HP_automobiles_-_light_car%2C_race_car_%28Allgemeine_Automobil-Zeitung%2C_1902%29.jpg/1920px-Lib%C3%A9ria_10_HP_automobiles_-_light_car%2C_race_car_%28Allgemeine_Automobil-Zeitung%2C_1902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Unknown authorUnknown author",
-    "licence": "Public domain",
-    "licence_url": "",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Lib%C3%A9ria_10_HP_automobiles_-_light_car,_race_car_(Allgemeine_Automobil-Zeitung,_1902).jpg",
-    "restrictions": ""
-   }
+   "photo": {}
   },
   {
-   "annee": 2019,
-   "titre": "Deux prix Nobel de littérature sont décernés cette année…",
+   "annee": 2024,
+   "titre": "Le prix Nobel de littérature est attribué à la romancière Sud-coréenne Han Kang",
    "resume": "Récompense considérée comme la plus prestigieuse au monde, le prix Nobel de littérature met en lumière un auteur et ses travaux. Le prix Nobel de littérature honore avant tout les romanciers, essayistes, poètes et dramaturges.",
-   "cle": "2019|Prix Nobel de littérature",
+   "cle": "2024|Prix Nobel de littérature",
    "vues_wikipedia": 9170,
    "score": 9.925,
    "url": "https://fr.wikipedia.org/wiki/Prix_Nobel_de_litt%C3%A9rature",
    "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Collection_Prix_Nobel_de_litt%C3%A9rature_aux_%C3%A9ditions_Rombaldi.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Collection_Prix_Nobel_de_litt%C3%A9rature_aux_%C3%A9ditions_Rombaldi.jpg/1920px-Collection_Prix_Nobel_de_litt%C3%A9rature_aux_%C3%A9ditions_Rombaldi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "auteur": "Skblzz1",
     "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "source": "Wikimedia",
-    "page": "https://commons.wikimedia.org/w/index.php?curid=102395003",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Collection_Prix_Nobel_de_litt%C3%A9rature_aux_%C3%A9ditions_Rombaldi.jpg",
     "restrictions": ""
    }
   },
