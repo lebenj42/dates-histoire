@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "genere_le": "2026-10-13T12:34:58",
+ "genere_le": "2026-10-13T13:56:54",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 13 octobre\n\n1307 · Les Templiers de France sont arrêtés\n1534 · Élection au pontificat de Paul III\n1977 · Le vol Lufthansa 181 est détourné par quatre pirates de l'air se revendiquant du…\n2006 · L'État islamique d'Irak est fondé\n2006 · Le pape Benoît XVI reçoit le quatorzième dalaï-lama…\n2025 · Le Hamas et Israël entament un cessez-le-feu et libèrent des otages et des…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1307 : Nap1805 · CC0 · Wikimedia Commons\n1534 : Nicoleon · CC0 · Wikimedia Commons\n1977 : Ayham Kanawati · Public domain · Wikimedia Commons\n2006 : AlejandroFC · CC BY-SA 4.0 · Wikimedia Commons\n2006 : Jebulon · CC0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 13 octobre\n\n1307 · Les Templiers de France sont arrêtés\n1534 · Élection au pontificat de Paul III\n1977 · Le vol Lufthansa 181 est détourné par quatre pirates de l'air se revendiquant du…\n2006 · L'État islamique d'Irak est fondé\n2016 · Bob Dylan reçoit le prix Nobel de littérature\n2025 · Le Hamas et Israël entament un cessez-le-feu et libèrent des otages et des…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1307 : Nap1805 · CC0 · Wikimedia Commons\n1534 : Nicoleon · CC0 · Wikimedia Commons\n1977 : Ayham Kanawati · Public domain · Wikimedia Commons\n2006 : AlejandroFC · CC BY-SA 4.0 · Wikimedia Commons\n2016 : Skblzz1 · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1307,
@@ -86,20 +86,20 @@
    }
   },
   {
-   "annee": 2006,
-   "titre": "Le pape Benoît XVI reçoit le quatorzième dalaï-lama…",
-   "resume": "Joseph Aloisius Ratzinger, né le 16 avril 1927 à Marktl et mort le 31 décembre 2022 au Vatican, est un prélat et théologien catholique allemand, élu pape le 19 avril 2005 sous le nom de Benoît XVI.",
-   "cle": "2006|Benoît XVI",
-   "vues_wikipedia": 39293,
-   "score": 11.189,
-   "url": "https://fr.wikipedia.org/wiki/Beno%C3%AEt_XVI",
+   "annee": 2016,
+   "titre": "Bob Dylan reçoit le prix Nobel de littérature",
+   "resume": "Le prix Nobel de littérature est une récompense internationale accordée chaque année, depuis 1901, à un écrivain ayant rendu service à l'humanité par une œuvre littéraire qui, selon le testament du chimiste suédois Alfred Nobel…",
+   "cle": "2016|Prix Nobel de littérature",
+   "vues_wikipedia": 9170,
+   "score": 9.925,
+   "url": "https://fr.wikipedia.org/wiki/Prix_Nobel_de_litt%C3%A9rature",
    "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/CoA_Benedict_XVI_Florence.jpg/1920px-CoA_Benedict_XVI_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Jebulon",
-    "licence": "CC0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Collection_Prix_Nobel_de_litt%C3%A9rature_aux_%C3%A9ditions_Rombaldi.jpg/1920px-Collection_Prix_Nobel_de_litt%C3%A9rature_aux_%C3%A9ditions_Rombaldi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Skblzz1",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:CoA_Benedict_XVI_Florence.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Collection_Prix_Nobel_de_litt%C3%A9rature_aux_%C3%A9ditions_Rombaldi.jpg",
     "restrictions": ""
    }
   },
