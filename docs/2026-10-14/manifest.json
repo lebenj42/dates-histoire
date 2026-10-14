@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "genere_le": "2026-10-14T10:03:12",
+ "genere_le": "2026-10-14T11:35:12",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,26 +11,8 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 14 octobre\n\n1066 · Guillaume le Conquérant remporte la bataille d'Hastings sur Harold Godwinson…\n1670 · Première du Bourgeois gentilhomme de Molière à Chambord devant Louis XIV\n1943 · Une révolte éclate au centre d'extermination de Sobibór\n1952 · La Cité radieuse de Le Corbusier est inaugurée à Marseille\n1964 · Martin Luther King reçoit le prix Nobel de la paix…\n1985 · Coluche fonde les Restaurants du Cœur\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1066 : Chabe01 · CC BY-SA 4.0 · Wikimedia Commons\n1670 : Jean-Baptiste Poquelin, dit Molière · Public domain · Wikimedia Commons\n1952 : Carl Ha · CC BY-SA 4.0 · Wikimedia Commons\n1964 : Rowland Scherman / Adam Cuerden · Public domain · Wikimedia Commons\n1985 : Francis Alexandre / Ville de Toulouse · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 14 octobre\n\n1670 · Première du Bourgeois gentilhomme de Molière à Chambord devant Louis XIV\n1806 · Napoléon Ier bat les Prussiens à la bataille d'Iéna; le même jour…\n1943 · Une révolte éclate au centre d'extermination de Sobibór\n1952 · La Cité radieuse de Le Corbusier est inaugurée à Marseille\n1964 · Martin Luther King reçoit le prix Nobel de la paix…\n1985 · Coluche fonde les Restaurants du Cœur\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1670 : Jean-Baptiste Poquelin, dit Molière · Public domain · Wikimedia Commons\n1806 : Michelet · Public domain · Wikimedia Commons\n1952 : Carl Ha · CC BY-SA 4.0 · Wikimedia Commons\n1964 : Rowland Scherman / Adam Cuerden · Public domain · Wikimedia Commons\n1985 : Francis Alexandre / Ville de Toulouse · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
-  {
-   "annee": 1066,
-   "titre": "Guillaume le Conquérant remporte la bataille d'Hastings sur Harold Godwinson…",
-   "resume": "À la mort sans enfant du roi d'Angleterre Édouard le Confesseur, une crise de succession éclate et, après sa victoire à la bataille d'Hastings (1066), il s'empare de la couronne d'Angleterre.",
-   "cle": "1066|Guillaume le Conquérant",
-   "vues_wikipedia": 37676,
-   "score": 13.652,
-   "url": "https://fr.wikipedia.org/wiki/Guillaume_le_Conqu%C3%A9rant",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Rue_Guillaume_Conqu%C3%A9rant_-_Rouen_%28FR76%29_-_2021-11-14_-_1.jpg/1920px-Rue_Guillaume_Conqu%C3%A9rant_-_Rouen_%28FR76%29_-_2021-11-14_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Chabe01",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Rue_Guillaume_Conqu%C3%A9rant_-_Rouen_(FR76)_-_2021-11-14_-_1.jpg",
-    "restrictions": ""
-   }
-  },
   {
    "annee": 1670,
    "titre": "Première du Bourgeois gentilhomme de Molière à Chambord devant Louis XIV",
@@ -46,6 +28,24 @@
     "licence_url": "",
     "source": "Wikimedia Commons",
     "page": "https://commons.wikimedia.org/wiki/File:Le_Bourgeois_Gentilhomme,_Moli%C3%A8re,_couverture.png",
+    "restrictions": ""
+   }
+  },
+  {
+   "annee": 1806,
+   "titre": "Napoléon Ier bat les Prussiens à la bataille d'Iéna; le même jour…",
+   "resume": "La bataille d'Auerstaedt (aujourd'hui Auerstedt, petite ville qui se trouve entre Erfurt et Leipzig en Allemagne) se déroula le 14 octobre 1806…",
+   "cle": "1806|Bataille d'Auerstaedt",
+   "vues_wikipedia": 1433,
+   "score": 10.813,
+   "url": "https://fr.wikipedia.org/wiki/Bataille_d'Auerstaedt",
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bataille_d%27Auerstaedt%2C_14_octobre_1806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "Michelet",
+    "licence": "Public domain",
+    "licence_url": "",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Bataille_d%27Auerstaedt,_14_octobre_1806.jpg",
     "restrictions": ""
    }
   },
