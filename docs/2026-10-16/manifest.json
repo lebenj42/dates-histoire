@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "genere_le": "2026-10-16T09:36:27",
+ "genere_le": "2026-10-16T11:06:36",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 16 octobre\n\n1793 · Exécution publique de la reine Marie-Antoinette (gravure)\n1879 · Publication initiale du roman Nana d'Émile Zola sous forme de feuilleton dans Le…\n1923 · Walt Disney crée The Walt Disney Company\n2018 · Au Maroc, accident ferroviaire à Bouknadel, causant la mort de sept personnes et une…\n2018 · En France, Jean-Luc Mélenchon et certains de ses camarades de parti s'en prennent…\n2023 · En Belgique, à Bruxelles, un attentat islamiste fait deux morts et un blessé\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1793 : AnonymousUnknown author · CC BY-SA 4.0 · Wikimedia\n1879 : Wikiuserthreefiftyfive · CC0 · Wikimedia Commons\n1923 : Florida Development Commission · Public domain · Wikimedia Commons\n2018 : Rosa Cabecinhas and Alcino Cunha · CC BY-SA 2.0 · Wikimedia Commons\n2018 : Touam (Hervé Agnoux) · CC BY-SA 4.0 · Wikimedia Commons\n2023 : Alvesgaspar · CC BY-SA 3.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 16 octobre\n\n1793 · Exécution publique de la reine Marie-Antoinette (gravure)\n1879 · Publication initiale du roman Nana d'Émile Zola sous forme de feuilleton dans Le…\n1923 · Walt Disney crée The Walt Disney Company\n1978 · Élection du pape Jean-Paul II (Karol Józef Wojtyła de son vrai nom)\n2018 · Au Maroc, accident ferroviaire à Bouknadel, causant la mort de sept personnes et une…\n2023 · En Belgique, à Bruxelles, un attentat islamiste fait deux morts et un blessé\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1793 : Unknown authorUnknown author · Public domain · Wikimedia Commons\n1923 : Florida Development Commission · Public domain · Wikimedia Commons\n1978 : Radomił Binek · CC BY-SA 3.0 · Wikimedia Commons\n2018 : Rosa Cabecinhas and Alcino Cunha · CC BY-SA 2.0 · Wikimedia Commons\n2023 : Alvesgaspar · CC BY-SA 3.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1793,
@@ -22,12 +22,12 @@
    "score": 11.147,
    "url": "https://fr.wikipedia.org/wiki/Ex%C3%A9cution_de_Marie-Antoinette",
    "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ex%C3%A9cution_de_Marie-Antoinette%2C_Mus%C3%A9e_de_la_R%C3%A9volution_fran%C3%A7aise_-_Vizille.jpg",
-    "auteur": "AnonymousUnknown author",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "source": "Wikimedia",
-    "page": "https://commons.wikimedia.org/w/index.php?curid=65107060",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ex%C3%A9cution_de_Marie_Antoinette_le_16_octobre_1793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "Unknown authorUnknown author",
+    "licence": "Public domain",
+    "licence_url": "",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Ex%C3%A9cution_de_Marie_Antoinette_le_16_octobre_1793.jpg",
     "restrictions": ""
    }
   },
@@ -39,15 +39,7 @@
    "vues_wikipedia": 3297,
    "score": 11.537,
    "url": "https://fr.wikipedia.org/wiki/Nana_(roman)",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Emile_Zolo-Nana-Coverpage.jpg/1920px-Emile_Zolo-Nana-Coverpage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Wikiuserthreefiftyfive",
-    "licence": "CC0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Emile_Zolo-Nana-Coverpage.jpg",
-    "restrictions": ""
-   }
+   "photo": {}
   },
   {
    "annee": 1923,
@@ -68,6 +60,24 @@
    }
   },
   {
+   "annee": 1978,
+   "titre": "Élection du pape Jean-Paul II (Karol Józef Wojtyła de son vrai nom)",
+   "resume": "Il est successivement prêtre, évêque puis archevêque de Cracovie et cardinal, avant d'être élu pape le 16 octobre 1978 sous le nom de Jean-Paul II (en latin Ioannes Paulus II, en italien Giovanni Paolo II, en polonais Jan Paweł II).",
+   "cle": "1978|Jean-Paul II",
+   "vues_wikipedia": 45418,
+   "score": 11.314,
+   "url": "https://fr.wikipedia.org/wiki/Jean-Paul_II",
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/JPII_29_09_2004_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "Radomił Binek",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:JPII_29_09_2004_2.JPG",
+    "restrictions": ""
+   }
+  },
+  {
    "annee": 2018,
    "titre": "Au Maroc, accident ferroviaire à Bouknadel, causant la mort de sept personnes et une…",
    "resume": "L'État Idrisside, fondé en 789 par Idris Ier, est considéré par le roman national marocain comme le premier État marocain.",
@@ -82,24 +92,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
     "source": "Wikimedia Commons",
     "page": "https://commons.wikimedia.org/wiki/File:Morocco_Africa_Flickr_Rosino_December_2005_84514010_edited_by_Buchling.jpg",
-    "restrictions": ""
-   }
-  },
-  {
-   "annee": 2018,
-   "titre": "En France, Jean-Luc Mélenchon et certains de ses camarades de parti s'en prennent…",
-   "resume": "La France insoumise présente à l'élection présidentielle de 2017 la candidature de son fondateur Jean-Luc Mélenchon, qui, à l'issue du premier tour, arrive en quatrième position avec 19,58 % des suffrages.",
-   "cle": "2018|La France insoumise",
-   "vues_wikipedia": 34888,
-   "score": 11.085,
-   "url": "https://fr.wikipedia.org/wiki/La_France_insoumise",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/La_France_Insoumise_au_1er_mai_2019_%C3%A0_Lyon.jpg/1920px-La_France_Insoumise_au_1er_mai_2019_%C3%A0_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Touam (Hervé Agnoux)",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:La_France_Insoumise_au_1er_mai_2019_%C3%A0_Lyon.jpg",
     "restrictions": ""
    }
   },
