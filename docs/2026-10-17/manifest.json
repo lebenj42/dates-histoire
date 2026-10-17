@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "genere_le": "2026-10-17T09:08:04",
+ "genere_le": "2026-10-17T10:27:25",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 17 octobre\n\n1912 · La première guerre balkanique est déclenchée par la déclaration de guerre de la…\n1917 · Début de la bataille du détroit de Muhu opposant l'Empire allemand et la jeune…\n1979 · Mère Teresa reçoit le prix Nobel de la paix\n1997 · Transfert des cendres d'Ernesto Guevara et de six de ses compagnons d'armes…\n2018 · Le Canada devient le deuxième pays à légaliser le cannabis\n2018 · En Russie et Ukraine, dans la péninsule de Crimée, à Kertch…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1912 : Unknown authorUnknown author · Public domain · Wikimedia Commons\n1917 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1979 : Chabe01 · CC BY-SA 4.0 · Wikimedia Commons\n1997 : Alberto Korda, restored by Adam Cuerden · Public domain · Wikimedia Commons\n2018 : kevin dooley · CC BY 2.0 · Flickr\n2018 : Posterrr · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 17 octobre\n\n1912 · La première guerre balkanique est déclenchée par la déclaration de guerre de la…\n1917 · Début de la bataille du détroit de Muhu opposant l'Empire allemand et la jeune…\n1931 · Al Capone est condamné pour fraude fiscale\n1979 · Mère Teresa reçoit le prix Nobel de la paix\n2018 · Le Canada devient le deuxième pays à légaliser le cannabis\n2018 · En Russie et Ukraine, dans la péninsule de Crimée, à Kertch…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1912 : Unknown authorUnknown author · Public domain · Wikimedia Commons\n1917 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1931 : Chicago Bureau (Federal Bureau of Investigation) - Wide Worl · Public domain · Wikimedia Commons\n1979 : Chabe01 · CC BY-SA 4.0 · Wikimedia\n2018 : Wilfredor · CC0 · Wikimedia Commons\n2018 : Posterrr · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1912,
@@ -50,6 +50,24 @@
    }
   },
   {
+   "annee": 1931,
+   "titre": "Al Capone est condamné pour fraude fiscale",
+   "resume": "Le juge James Herbert Wilkerson le condamne le 24 octobre 1931 à 17 années de prison dont 11 ans ferme.",
+   "cle": "1931|Al Capone",
+   "vues_wikipedia": 14753,
+   "score": 10.338,
+   "url": "https://fr.wikipedia.org/wiki/Al_Capone",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Al_Capone_in_1930.jpg/1920px-Al_Capone_in_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Chicago Bureau (Federal Bureau of Investigation) - Wide Worl",
+    "licence": "Public domain",
+    "licence_url": "",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Al_Capone_in_1930.jpg",
+    "restrictions": ""
+   }
+  },
+  {
    "annee": 1979,
    "titre": "Mère Teresa reçoit le prix Nobel de la paix",
    "resume": "Anjezë Gonxhe Bojaxhiu, en religion Mère Teresa, canonisée par l'Église catholique comme sainte Teresa de Calcutta, est une religieuse catholique albanaise naturalisée indienne, missionnaire en Inde, prix Nobel de la paix en 1979.",
@@ -58,31 +76,13 @@
    "score": 12.593,
    "url": "https://fr.wikipedia.org/wiki/M%C3%A8re_Teresa",
    "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Rue_M%C3%A8re_Teresa_-_Sevran_%28FR93%29_-_2023-05-27_-_1.jpg/1920px-Rue_M%C3%A8re_Teresa_-_Sevran_%28FR93%29_-_2023-05-27_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Plaque_Rue_M%C3%A8re_Teresa_-_Paris_XVII_%28FR75%29_-_2021-08-21_-_1.jpg",
     "auteur": "Chabe01",
     "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Rue_M%C3%A8re_Teresa_-_Sevran_(FR93)_-_2023-05-27_-_1.jpg",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "Wikimedia",
+    "page": "https://commons.wikimedia.org/w/index.php?curid=109136106",
     "restrictions": ""
-   }
-  },
-  {
-   "annee": 1997,
-   "titre": "Transfert des cendres d'Ernesto Guevara et de six de ses compagnons d'armes…",
-   "resume": "Après plus de deux ans de guérilla durant laquelle Guevara devient commandant, ce groupe prend le pouvoir à Cuba en renversant le dictateur Fulgencio Batista en 1959. Puis il crée des camps de « travail et de rééducation ».",
-   "cle": "1997|Che Guevara",
-   "vues_wikipedia": 40396,
-   "score": 11.213,
-   "url": "https://fr.wikipedia.org/wiki/Che_Guevara",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/1920px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Alberto Korda, restored by Adam Cuerden",
-    "licence": "Public domain",
-    "licence_url": "",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg",
-    "restrictions": "communist"
    }
   },
   {
@@ -94,12 +94,12 @@
    "score": 10.927,
    "url": "https://fr.wikipedia.org/wiki/Canada",
    "photo": {
-    "url": "https://live.staticflickr.com/2110/13156906733_27e2f04f8b_b.jpg",
-    "auteur": "kevin dooley",
-    "licence": "CC BY 2.0",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
-    "source": "Flickr",
-    "page": "https://www.flickr.com/photos/12836528@N00/13156906733",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ch%C3%A2teau_Frontenac_in_Quebec_city%2C_Canada_colorfull.jpg/1920px-Ch%C3%A2teau_Frontenac_in_Quebec_city%2C_Canada_colorfull.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Wilfredor",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac_in_Quebec_city,_Canada_colorfull.jpg",
     "restrictions": ""
    }
   },
