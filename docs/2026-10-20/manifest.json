@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "genere_le": "2026-10-20T09:55:09",
+ "genere_le": "2026-10-20T11:15:16",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 20 octobre\n\n1587 · Les huguenots menés par Henri de Navarre, futur roi de France sous le nom d’Henri IV…\n1805 · La bataille d'Ulm s'achève par la victoire de l'armée impériale française face à…\n1827 · La coalition franco-russo-britannique remporte la bataille de Navarin face à l'Empire…\n1944 · Débarquement américain aux Philippines pendant la guerre du Pacifique\n2011 · L'ETA annonce la « fin définitive de son action armée »\n2018 · En Afghanistan, les élections législatives se déroulent dans un climat d'insécurité…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1587 : Didier Descouens · Public domain · Wikimedia Commons\n1805 : Charles Thévenin · Public domain · Wikimedia Commons\n1827 : SJCAmerican · CC BY-SA 4.0 · Wikimedia Commons\n2011 : Hubble image: NASA, ESA, N. Smith (University of California, · Public domain · Wikimedia Commons\n2018 : Cpl Lee Goddard · OGL 2 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 20 octobre\n\n1587 · Les huguenots menés par Henri de Navarre, futur roi de France sous le nom d’Henri IV…\n1805 · La bataille d'Ulm s'achève par la victoire de l'armée impériale française face à…\n1827 · La coalition franco-russo-britannique remporte la bataille de Navarin face à l'Empire…\n1944 · Débarquement américain aux Philippines pendant la guerre du Pacifique\n2011 · L'ETA annonce la « fin définitive de son action armée »\n2018 · En Afghanistan, les élections législatives se déroulent dans un climat d'insécurité…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1587 : Didier Descouens · Public domain · Wikimedia Commons\n1805 : Charles Thévenin · Public domain · Wikimedia Commons\n1944 : The British Library · No restrictions · Wikimedia Commons\n2011 : Hubble image: NASA, ESA, N. Smith (University of California, · Public domain · Wikimedia Commons\n2018 : Cpl Lee Goddard · OGL 2 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1587,
@@ -57,15 +57,7 @@
    "vues_wikipedia": 2406,
    "score": 11.263,
    "url": "https://fr.wikipedia.org/wiki/Guerre_d'ind%C3%A9pendance_grecque",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Greek_revolution_collage.jpg/1920px-Greek_revolution_collage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "SJCAmerican",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Greek_revolution_collage.jpg",
-    "restrictions": ""
-   }
+   "photo": {}
   },
   {
    "annee": 1944,
@@ -75,7 +67,15 @@
    "vues_wikipedia": 3816,
    "score": 11.663,
    "url": "https://fr.wikipedia.org/wiki/Guerre_du_Pacifique",
-   "photo": {}
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/378_of_%27Histoire_de_la_guerre_du_Pacifique%2C_1879-1880_%281880-1881%29%27_%2811144615855%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "The British Library",
+    "licence": "No restrictions",
+    "licence_url": "https://www.flickr.com/commons/usage/",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:378_of_%27Histoire_de_la_guerre_du_Pacifique,_1879-1880_(1880-1881)%27_(11144615855).jpg",
+    "restrictions": ""
+   }
   },
   {
    "annee": 2011,
