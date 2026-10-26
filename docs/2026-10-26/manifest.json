@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "genere_le": "2026-10-26T10:54:35",
+ "genere_le": "2026-10-26T12:38:29",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,26 +11,8 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 26 octobre\n\n1671 · À peine installé à l'Observatoire Royal, encore en plein chantier…\n1896 · Le traité d'Addis-Abeba est signé entre l'Italie et l'Éthiopie et clôt la première…\n1917 · Élection de Lénine à la tête du Comité central du Parti communiste de l'Union…\n1955 · Proclamation de la république du Vietnam\n1994 · Traité de paix israélo-jordanien\n2017 · Au Kenya, élection présidentielle\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1671 : NASA / JPL / Space Science Institute · Public domain · Wikimedia Commons\n1896 : From a variety of images credited above. · CC0 · Wikimedia Commons\n1917 : Vladimir Musaelyan · CC0 · Wikimedia Commons\n1955 : FuriousTroller · CC BY-SA 4.0 · Wikimedia Commons\n1994 : Yaakov Saar · CC BY-SA 3.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 26 octobre\n\n1896 · Le traité d'Addis-Abeba est signé entre l'Italie et l'Éthiopie et clôt la première…\n1917 · Élection de Lénine à la tête du Comité central du Parti communiste de l'Union…\n1939 · Adoption, par Hitler, du décret qui organise les territoires polonais dévolus au…\n1955 · Proclamation de la république du Vietnam\n1994 · Traité de paix israélo-jordanien\n2017 · Au Kenya, élection présidentielle\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1896 : From a variety of images credited above. · CC0 · Wikimedia Commons\n1917 : Vladimir Musaelyan · CC0 · Wikimedia Commons\n1939 : UnknownUnknown · CC BY-SA 3.0 de · Wikimedia Commons\n1955 : Jean-Pierre Dalbéra from Paris, France · CC BY 2.0 · Wikimedia\n1994 : Yaakov Saar · CC BY-SA 3.0 · Wikimedia Commons\n2017 : Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8.jpg: Jorge L · CC BY-SA 2.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
-  {
-   "annee": 1671,
-   "titre": "À peine installé à l'Observatoire Royal, encore en plein chantier…",
-   "resume": "Saturne est très probablement composée d'un noyau de silicates et de fer entouré de couches constituées en volume à 96 % d'hydrogène qui est successivement métallique puis liquide puis gazeux, mêlé à de l'hélium.",
-   "cle": "1671|Saturne (planète)",
-   "vues_wikipedia": 7959,
-   "score": 9.802,
-   "url": "https://fr.wikipedia.org/wiki/Saturne_(plan%C3%A8te)",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Saturn_during_Equinox.jpg/1920px-Saturn_during_Equinox.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "NASA / JPL / Space Science Institute",
-    "licence": "Public domain",
-    "licence_url": "",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Saturn_during_Equinox.jpg",
-    "restrictions": ""
-   }
-  },
   {
    "annee": 1896,
    "titre": "Le traité d'Addis-Abeba est signé entre l'Italie et l'Éthiopie et clôt la première…",
@@ -68,6 +50,24 @@
    }
   },
   {
+   "annee": 1939,
+   "titre": "Adoption, par Hitler, du décret qui organise les territoires polonais dévolus au…",
+   "resume": "Bien qu'ayant tenté de se soustraire à ses obligations militaires, il participe à la Première Guerre mondiale au sein des troupes bavaroises.",
+   "cle": "1939|Adolf Hitler",
+   "vues_wikipedia": 49873,
+   "score": 11.396,
+   "url": "https://fr.wikipedia.org/wiki/Adolf_Hitler",
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bundesarchiv_Bild_121-0723%2C_Marburg-Drau%2C_Adolf_Hitler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "UnknownUnknown",
+    "licence": "CC BY-SA 3.0 de",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_121-0723,_Marburg-Drau,_Adolf_Hitler.jpg",
+    "restrictions": "nazi"
+   }
+  },
+  {
    "annee": 1955,
    "titre": "Proclamation de la république du Vietnam",
    "resume": "La république du Vietnam (ou plus communément Vietnam du Sud ou Sud-Vietnam) est un État ayant existé de 1955 à 1975 dans le sud du Vietnam actuel.",
@@ -76,12 +76,12 @@
    "score": 10.823,
    "url": "https://fr.wikipedia.org/wiki/R%C3%A9publique_du_Vietnam",
    "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Upper_house_of_the_Republic_of_Vietnam_%281974%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "auteur": "FuriousTroller",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Upper_house_of_the_Republic_of_Vietnam_(1974).png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Le_m%C3%A9morial_du_Pr%C3%A9sident_Ton_Duc_Thang_%28%C3%AEle_du_Tigre%2C_Vietnam%29_%286635518367%29.jpg",
+    "auteur": "Jean-Pierre Dalbéra from Paris, France",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "Wikimedia",
+    "page": "https://commons.wikimedia.org/w/index.php?curid=24667529",
     "restrictions": ""
    }
   },
@@ -111,7 +111,15 @@
    "vues_wikipedia": 8363,
    "score": 9.845,
    "url": "https://fr.wikipedia.org/wiki/Kenya",
-   "photo": {}
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Gyps_rueppellii_-Nairobi_National_Park%2C_Kenya-8-4c.jpg/1920px-Gyps_rueppellii_-Nairobi_National_Park%2C_Kenya-8-4c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8.jpg: Jorge L",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8-4c.jpg",
+    "restrictions": ""
+   }
   }
  ]
 }
