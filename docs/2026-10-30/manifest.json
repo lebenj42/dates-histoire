@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "genere_le": "2026-10-30T11:21:05",
+ "genere_le": "2026-10-30T12:35:39",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 30 octobre\n\n1836 · Tentative menée par Louis-Napoléon Bonaparte pour soulever les troupes à Strasbourg\n1940 · Philippe Pétain annonce à la radio la collaboration de la France occupée avec…\n1941 · Franklin D. Roosevelt signe le programme Prêt-Bail d’armement des Alliés\n1961 · Explosion par l'URSS au-dessus de la Nouvelle-Zemble de la Tsar Bomba…\n1991 · Conférence de paix israélo-arabe à Madrid, sous le parrainage des États-Unis et de…\n1995 · Lors du référendum sur la souveraineté du Québec, le « non » l'emporte à 50,58 %\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1836 : Mayer &amp; Peirson, France · Public domain · Wikimedia Commons\n1940 : Imprimerie Draeger à Montrouge en région parisienne · Public domain · Wikimedia Commons\n1941 : Vincenzo Laviosa · Public domain · Wikimedia Commons\n1961 : Pierre Fauvel · Public domain · Wikimedia Commons\n1995 : This image has been made by Zorion (User:Zorion) and release · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 30 octobre\n\n1836 · Tentative menée par Louis-Napoléon Bonaparte pour soulever les troupes à Strasbourg\n1940 · Philippe Pétain annonce à la radio la collaboration de la France occupée avec…\n1941 · Franklin D. Roosevelt signe le programme Prêt-Bail d’armement des Alliés\n1961 · Explosion par l'URSS au-dessus de la Nouvelle-Zemble de la Tsar Bomba…\n1991 · Conférence de paix israélo-arabe à Madrid, sous le parrainage des États-Unis et de…\n1995 · Lors du référendum sur la souveraineté du Québec, le « non » l'emporte à 50,58 %\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1836 : Mayer &amp; Peirson, France · Public domain · Wikimedia Commons\n1940 : Imprimerie Draeger à Montrouge en région parisienne · Public domain · Wikimedia Commons\n1941 : Vincenzo Laviosa · Public domain · Wikimedia Commons\n1961 : Pierre Fauvel · Public domain · Wikimedia Commons\n1991 : Al*from*Lig · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1836,
@@ -93,7 +93,15 @@
    "vues_wikipedia": 2377,
    "score": 11.252,
    "url": "https://fr.wikipedia.org/wiki/Organisation_de_lib%C3%A9ration_de_la_Palestine",
-   "photo": {}
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Volo_Swissair_330.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "Al*from*Lig",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Volo_Swissair_330.jpg",
+    "restrictions": ""
+   }
   },
   {
    "annee": 1995,
@@ -103,15 +111,7 @@
    "vues_wikipedia": 2406,
    "score": 11.263,
    "url": "https://fr.wikipedia.org/wiki/R%C3%A9f%C3%A9rendum_qu%C3%A9b%C3%A9cois_de_1995",
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Non_au_r%C3%A9f%C3%A9rendum_1995.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "auteur": "This image has been made by Zorion (User:Zorion) and release",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Non_au_r%C3%A9f%C3%A9rendum_1995.png",
-    "restrictions": ""
-   }
+   "photo": {}
   }
  ]
 }
