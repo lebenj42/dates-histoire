@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "genere_le": "2026-10-31T10:52:48",
+ "genere_le": "2026-10-31T12:03:12",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 31 octobre\n\n1517 · Martin Luther (portrait) placarde ses « 95 thèses » à la porte de l'église de…\n1793 · Exécution des Girondins après leur jugement par le Tribunal révolutionnaire\n1941 · L'ensemble monumental du mont Rushmore est achevé aux États-Unis…\n1968 · Le président américain Lyndon B. Johnson ordonne l'arrêt total des bombardements au…\n1997 · Le pape Jean-Paul II reconnaît que les préjugés anti-juifs ont étouffé la «…\n2011 · La population mondiale atteint les sept milliards d'individus selon les estimations…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1517 : Lucas Cranach the Elder · Public domain · Wikimedia Commons\n1793 : Unknown authorUnknown author · Public domain · Wikimedia Commons\n1941 : Thomas Wolf, www.foto-tw.de · CC BY-SA 3.0 · Wikimedia Commons\n1997 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n2011 : azugaldia · CC BY 2.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 31 octobre\n\n1517 · Martin Luther (portrait) placarde ses « 95 thèses » à la porte de l'église de…\n1793 · Exécution des Girondins après leur jugement par le Tribunal révolutionnaire\n1941 · Le USS Reuben James (DD-245) est le premier navire de guerre américain coulé durant…\n1941 · L'ensemble monumental du mont Rushmore est achevé aux États-Unis…\n1968 · Le président américain Lyndon B. Johnson ordonne l'arrêt total des bombardements au…\n2011 · La population mondiale atteint les sept milliards d'individus selon les estimations…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1517 : Lucas Cranach the Elder · Public domain · Wikimedia Commons\n1941 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1941 : Thomas Wolf, www.foto-tw.de · CC BY-SA 3.0 · Wikimedia Commons\n1968 : Cecil W. Stoughton · Public domain · Wikimedia Commons\n2011 : azugaldia · CC BY 2.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1517,
@@ -39,13 +39,23 @@
    "vues_wikipedia": 1191,
    "score": 10.653,
    "url": "https://fr.wikipedia.org/wiki/Tribunal_r%C3%A9volutionnaire",
+   "photo": {}
+  },
+  {
+   "annee": 1941,
+   "titre": "Le USS Reuben James (DD-245) est le premier navire de guerre américain coulé durant…",
+   "resume": "La Seconde Guerre mondiale, ou Deuxième Guerre mondiale, est un conflit armé à l'échelle planétaire qui dure du 1er septembre 1939 au 2 septembre 1945.",
+   "cle": "1941|Seconde Guerre mondiale",
+   "vues_wikipedia": 38854,
+   "score": 11.179,
+   "url": "https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale",
    "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Tribunal_r%C3%A9volutionnaire_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "auteur": "Unknown authorUnknown author",
-    "licence": "Public domain",
-    "licence_url": "",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg/1920px-Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Gzen92",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Tribunal_r%C3%A9volutionnaire_04.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_(Dieffenthal).jpg",
     "restrictions": ""
    }
   },
@@ -75,23 +85,13 @@
    "vues_wikipedia": 8682,
    "score": 12.377,
    "url": "https://fr.wikipedia.org/wiki/Lyndon_B._Johnson",
-   "photo": {}
-  },
-  {
-   "annee": 1997,
-   "titre": "Le pape Jean-Paul II reconnaît que les préjugés anti-juifs ont étouffé la «…",
-   "resume": "La Seconde Guerre mondiale, ou Deuxième Guerre mondiale, est un conflit armé à l'échelle planétaire qui dure du 1er septembre 1939 au 2 septembre 1945.",
-   "cle": "1997|Seconde Guerre mondiale",
-   "vues_wikipedia": 38854,
-   "score": 11.179,
-   "url": "https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale",
    "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg/1920px-Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Gzen92",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Lyndon_B._Johnson_taking_the_oath_of_office%2C_November_1963.jpg/1920px-Lyndon_B._Johnson_taking_the_oath_of_office%2C_November_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Cecil W. Stoughton",
+    "licence": "Public domain",
+    "licence_url": "",
     "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_(Dieffenthal).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lyndon_B._Johnson_taking_the_oath_of_office,_November_1963.jpg",
     "restrictions": ""
    }
   },
