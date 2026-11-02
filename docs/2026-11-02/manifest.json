@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "genere_le": "2026-11-02T13:18:03",
+ "genere_le": "2026-11-02T15:17:39",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 2 novembre\n\n1917 · Déclaration Balfour sur l'établissement d'un foyer national pour le peuple juif en…\n1930 · Haïlé Sélassié est sacré Negusse Negest d'Abyssinie\n1955 · En Israël, Ben Gourion présente son nouveau gouvernement à la Knesset\n1963 · Au Viêt Nam, Ngô Đình Diệm est renversé par un coup d'État et assassiné\n2000 · La Station spatiale internationale accueille ses trois premiers occupants avec…\n2018 · En Égypte, un attentat contre la communauté chrétienne…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1917 : United Kingdom Government signed by Arthur Balfour · Public domain · Wikimedia Commons\n1930 : American Colony (Jerusalem). Photo Dept., photographer. · Public domain · Wikimedia Commons\n1955 : Kobi Gideon · CC BY-SA 3.0 · Wikimedia Commons\n2000 : NASA · Public domain · Wikimedia Commons\n2018 : Ricardo Liberato · CC BY-SA 2.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 2 novembre\n\n1917 · Déclaration Balfour sur l'établissement d'un foyer national pour le peuple juif en…\n1930 · Haïlé Sélassié est sacré Negusse Negest d'Abyssinie\n1976 · Jimmy Carter est élu président des États-Unis\n2000 · La Station spatiale internationale accueille ses trois premiers occupants avec…\n2004 · George W. Bush est réélu président des États-Unis\n2020 · En Afghanistan, l'organisation État islamique revendique un attentat contre…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1917 : United Kingdom Government signed by Arthur Balfour · Public domain · Wikimedia Commons\n1976 : Unknown authorUnknown author · Public domain · Wikimedia Commons\n2000 : NASA · Public domain · Wikimedia Commons\n2004 : Auteur inconnu · Public domain · Wikimedia Commons\n2020 : AlejandroFC · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1917,
@@ -39,43 +39,25 @@
    "vues_wikipedia": 8899,
    "score": 12.399,
    "url": "https://fr.wikipedia.org/wiki/Ha%C3%AFl%C3%A9_S%C3%A9lassi%C3%A9_Ier",
+   "photo": {}
+  },
+  {
+   "annee": 1976,
+   "titre": "Jimmy Carter est élu président des États-Unis",
+   "resume": "Il effectue deux mandats, puis est élu gouverneur de Géorgie en 1970. Candidat aux primaires démocrates de 1976 (en) alors qu'il est quasiment inconnu en dehors de son État, il est désigné comme candidat à la présidence.",
+   "cle": "1976|Jimmy Carter",
+   "vues_wikipedia": 11870,
+   "score": 10.149,
+   "url": "https://fr.wikipedia.org/wiki/Jimmy_Carter",
    "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Selassie_restored.jpg/1920px-Selassie_restored.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "American Colony (Jerusalem). Photo Dept., photographer.",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Jimmy_Carter_with_King_Hussein_of_Jordan_the_Shah_of_Iran_and_Shahbanou_of_Iran_-_NARA_-_177332_04.jpg/1920px-Jimmy_Carter_with_King_Hussein_of_Jordan_the_Shah_of_Iran_and_Shahbanou_of_Iran_-_NARA_-_177332_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Unknown authorUnknown author",
     "licence": "Public domain",
     "licence_url": "",
     "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Selassie_restored.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jimmy_Carter_with_King_Hussein_of_Jordan_the_Shah_of_Iran_and_Shahbanou_of_Iran_-_NARA_-_177332_04.jpg",
     "restrictions": ""
    }
-  },
-  {
-   "annee": 1955,
-   "titre": "En Israël, Ben Gourion présente son nouveau gouvernement à la Knesset",
-   "resume": "En avril 2025, la population d'Israël s'élève à plus de 10 millions d'habitants. La Knesset, où siègent cent vingt députés élus au scrutin proportionnel intégral à un tour, représente le pouvoir législatif.",
-   "cle": "1955|Israël",
-   "vues_wikipedia": 36519,
-   "score": 11.125,
-   "url": "https://fr.wikipedia.org/wiki/Isra%C3%ABl",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Gaza_envelope_after_coordinated_surprise_offensive_on_Israel%2C_October_2023_%28KBG_GPO05%29.jpg/1920px-Gaza_envelope_after_coordinated_surprise_offensive_on_Israel%2C_October_2023_%28KBG_GPO05%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Kobi Gideon",
-    "licence": "CC BY-SA 3.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Gaza_envelope_after_coordinated_surprise_offensive_on_Israel,_October_2023_(KBG_GPO05).jpg",
-    "restrictions": ""
-   }
-  },
-  {
-   "annee": 1963,
-   "titre": "Au Viêt Nam, Ngô Đình Diệm est renversé par un coup d'État et assassiné",
-   "resume": "Sa capitale est Hanoï, tandis que sa municipalité la plus peuplée est Hô Chi Minh-Ville (ex Saïgon).",
-   "cle": "1963|Vietnam",
-   "vues_wikipedia": 17879,
-   "score": 10.505,
-   "url": "https://fr.wikipedia.org/wiki/Vietnam",
-   "photo": {}
   },
   {
    "annee": 2000,
@@ -96,20 +78,38 @@
    }
   },
   {
-   "annee": 2018,
-   "titre": "En Égypte, un attentat contre la communauté chrétienne…",
-   "resume": "L'Égypte demeure un pays principalement musulman avec une minorité chrétienne importante.",
-   "cle": "2018|Égypte",
-   "vues_wikipedia": 17901,
-   "score": 10.506,
-   "url": "https://fr.wikipedia.org/wiki/%C3%89gypte",
+   "annee": 2004,
+   "titre": "George W. Bush est réélu président des États-Unis",
+   "resume": "Il peut aussi engager une procédure de destitution (impeachment) du président. Le président est élu tous les quatre ans en même temps que le vice-président (généralement en fin d'années bissextiles) au suffrage universel indirect.",
+   "cle": "2004|Président des États-Unis",
+   "vues_wikipedia": 14034,
+   "score": 10.294,
+   "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sident_des_%C3%89tats-Unis",
    "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/1920px-All_Gizah_Pyramids.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Ricardo Liberato",
-    "licence": "CC BY-SA 2.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Air_France._Rencontre_de_Monsieur_le_Pr%C3%A9sident_de_la_R%C3%A9publique_avec_son_Excellence_Monsieur_George_Bush%2C_Pr%C3%A9sident_des_%C3%89tats-Unis_d%27Am%C3%A9rique._Martinique._Jeudi_14_mars_1991._Vol_Paris-Fort_de_France_%C3%A0..._-_btv1b10116429p_%284_of_4%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Auteur inconnu",
+    "licence": "Public domain",
+    "licence_url": "",
     "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Air_France._Rencontre_de_Monsieur_le_Pr%C3%A9sident_de_la_R%C3%A9publique_avec_son_Excellence_Monsieur_George_Bush,_Pr%C3%A9sident_des_%C3%89tats-Unis_d%27Am%C3%A9rique._Martinique._Jeudi_14_mars_1991._Vol_Paris-Fort_de_France_%C3%A0..._-_btv1b10116429p_(4_of_4).jpg",
+    "restrictions": ""
+   }
+  },
+  {
+   "annee": 2020,
+   "titre": "En Afghanistan, l'organisation État islamique revendique un attentat contre…",
+   "resume": "Le 13 octobre 2006, ce Conseil consultatif proclame l'État islamique d'Irak (EII; en arabe: دولة العراق الإسلامية, dawlat al-ʿirāq al-islāmiyya), lequel se considère à partir de cette date comme le gouvernement légitime de l’Irak.",
+   "cle": "2020|État islamique (organisation)",
+   "vues_wikipedia": 12183,
+   "score": 10.172,
+   "url": "https://fr.wikipedia.org/wiki/%C3%89tat_islamique_(organisation)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Islamic_State_%28May_2015%29_%28orthographic_projection%29.png/1920px-Islamic_State_%28May_2015%29_%28orthographic_projection%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "AlejandroFC",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Islamic_State_(May_2015)_(orthographic_projection).png",
     "restrictions": ""
    }
   }
