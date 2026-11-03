@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "genere_le": "2026-11-03T12:43:37",
+ "genere_le": "2026-11-03T13:56:07",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 3 novembre\n\n1468 · Pillage de la ville de Liège par Charles le Téméraire\n1936 · Franklin Delano Roosevelt est réélu président des États-Unis\n1957 · La chienne Laïka, à bord de Spoutnik 2, devient le premier être vivant à être mis en…\n1958 · Inauguration de la maison de l'UNESCO à Paris\n1978 · Indépendance de la Dominique vis-à-vis du Royaume-Uni\n1992 · Bill Clinton est élu président des États-Unis\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1468 : Rogier van der Weyden · Public domain · Wikimedia Commons\n1936 : Vincenzo Laviosa · Public domain · Wikimedia Commons\n1957 : Colectivul Dumitrana · Public domain · Wikimedia Commons\n1958 : Michel Claude · CC BY-SA 3.0 igo · Wikimedia Commons\n1978 : Reinhardhauke · CC BY-SA 3.0 · Wikimedia\n1992 : Auteur inconnu · Public domain · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 3 novembre\n\n1468 · Pillage de la ville de Liège par Charles le Téméraire\n1936 · Franklin Delano Roosevelt est réélu président des États-Unis\n1957 · La chienne Laïka, à bord de Spoutnik 2, devient le premier être vivant à être mis en…\n1958 · Inauguration de la maison de l'UNESCO à Paris\n1978 · Indépendance de la Dominique vis-à-vis du Royaume-Uni\n2024 · En Moldavie, la présidente sortante, Maia Sandu, est réélue\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1936 : Vincenzo Laviosa · Public domain · Wikimedia Commons\n1957 : Colectivul Dumitrana · Public domain · Wikimedia Commons\n1958 : Michel Claude · CC BY-SA 3.0 igo · Wikimedia Commons\n1978 : Mehranvary · CC BY-SA 4.0 · Wikimedia Commons\n2024 : MD-wiki-user · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1468,
@@ -21,15 +21,7 @@
    "vues_wikipedia": 8293,
    "score": 12.338,
    "url": "https://fr.wikipedia.org/wiki/Charles_le_T%C3%A9m%C3%A9raire",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Charles_the_Bold_1460.jpg/1920px-Charles_the_Bold_1460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Rogier van der Weyden",
-    "licence": "Public domain",
-    "licence_url": "",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Charles_the_Bold_1460.jpg",
-    "restrictions": ""
-   }
+   "photo": {}
   },
   {
    "annee": 1936,
@@ -94,30 +86,30 @@
    "score": 12.294,
    "url": "https://fr.wikipedia.org/wiki/Dominique_(pays)",
    "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Groslay_Saint-Martin7232.JPG",
-    "auteur": "Reinhardhauke",
-    "licence": "CC BY-SA 3.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "source": "Wikimedia",
-    "page": "https://commons.wikimedia.org/w/index.php?curid=15524946",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dominica_Passport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "Mehranvary",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Dominica_Passport.jpg",
     "restrictions": ""
    }
   },
   {
-   "annee": 1992,
-   "titre": "Bill Clinton est élu président des États-Unis",
-   "resume": "Il peut aussi engager une procédure de destitution (impeachment) du président. Le président est élu tous les quatre ans en même temps que le vice-président (généralement en fin d'années bissextiles) au suffrage universel indirect.",
-   "cle": "1992|Président des États-Unis",
-   "vues_wikipedia": 14034,
-   "score": 10.294,
-   "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sident_des_%C3%89tats-Unis",
+   "annee": 2024,
+   "titre": "En Moldavie, la présidente sortante, Maia Sandu, est réélue",
+   "resume": "Elle demeure membre de l'organisation jusqu'à un vote du parlement, en avril 2026, en faveur du retrait de la Moldavie de la CEI, effectif un an plus tard en avril 2027.",
+   "cle": "2024|Moldavie",
+   "vues_wikipedia": 15444,
+   "score": 10.378,
+   "url": "https://fr.wikipedia.org/wiki/Moldavie",
    "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Air_France._Rencontre_de_Monsieur_le_Pr%C3%A9sident_de_la_R%C3%A9publique_avec_son_Excellence_Monsieur_George_Bush%2C_Pr%C3%A9sident_des_%C3%89tats-Unis_d%27Am%C3%A9rique._Martinique._Jeudi_14_mars_1991._Vol_Paris-Fort_de_France_%C3%A0..._-_btv1b10116429p_%283_of_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "auteur": "Auteur inconnu",
-    "licence": "Public domain",
-    "licence_url": "",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Republic_of_Moldova_-_Map_of_the_regions_affected_by_COVID-19.png/1920px-Republic_of_Moldova_-_Map_of_the_regions_affected_by_COVID-19.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "MD-wiki-user",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Air_France._Rencontre_de_Monsieur_le_Pr%C3%A9sident_de_la_R%C3%A9publique_avec_son_Excellence_Monsieur_George_Bush,_Pr%C3%A9sident_des_%C3%89tats-Unis_d%27Am%C3%A9rique._Martinique._Jeudi_14_mars_1991._Vol_Paris-Fort_de_France_%C3%A0..._-_btv1b10116429p_(3_of_4).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Republic_of_Moldova_-_Map_of_the_regions_affected_by_COVID-19.png",
     "restrictions": ""
    }
   }
