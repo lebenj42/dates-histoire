@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "genere_le": "2026-11-04T12:55:04",
+ "genere_le": "2026-11-04T14:07:03",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 4 novembre\n\n1848 · Promulgation de la constitution de la Deuxième République en France\n1922 · L'égyptologue britannique Howard Carter découvre le tombeau du pharaon Toutânkhamon…\n1950 · Signature de la Convention européenne des droits de l'homme par les États membres du…\n1956 · Entrée de l'armée soviétique dans Budapest\n1979 · Prise d'assaut de l'ambassade américaine à Téhéran\n2025 · Aux États-Unis, le socialiste démocrate Zohran Mamdani est élu maire de New York\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1848 : Jules Gaildrau / Charles Fichot · Public domain · Wikimedia Commons\n1922 : Maynard Owen Williams · Public domain · Wikimedia Commons\n1950 : Mickaël Schauli · CC BY-SA 4.0 · Wikimedia Commons\n1956 : Atoljaka · CC BY 4.0 · Wikimedia Commons\n2025 : Dmitryshein · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 4 novembre\n\n1848 · Promulgation de la constitution de la Deuxième République en France\n1922 · L'égyptologue britannique Howard Carter découvre le tombeau du pharaon Toutânkhamon…\n1950 · Signature de la Convention européenne des droits de l'homme par les États membres du…\n1956 · Entrée de l'armée soviétique dans Budapest\n1979 · Prise d'assaut de l'ambassade américaine à Téhéran\n2025 · Aux États-Unis, le socialiste démocrate Zohran Mamdani est élu maire de New York\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1848 : Jules Gaildrau / Charles Fichot · Public domain · Wikimedia Commons\n1922 : Maynard Owen Williams · Public domain · Wikimedia Commons\n1950 : Mickaël Schauli · CC BY-SA 4.0 · Wikimedia Commons\n1956 : Kefaire · CC BY-SA 4.0 · Wikimedia\n1979 : Marion S. Trikosko · Public domain · Wikimedia Commons\n2025 : Dmitryshein · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1848,
@@ -76,12 +76,12 @@
    "score": 11.404,
    "url": "https://fr.wikipedia.org/wiki/R%C3%A9volution_hongroise_de_1956",
    "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Hungarian_Revolution_of_1956.png/1920px-Hungarian_Revolution_of_1956.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Atoljaka",
-    "licence": "CC BY 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Hungarian_Revolution_of_1956.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/1956_-_Socialisme_ou_Barbarie_L%27insurrection_Hongroise_4e_de_couverture.jpg",
+    "auteur": "Kefaire",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "Wikimedia",
+    "page": "https://commons.wikimedia.org/w/index.php?curid=127773175",
     "restrictions": ""
    }
   },
@@ -93,7 +93,15 @@
    "vues_wikipedia": 2170,
    "score": 11.173,
    "url": "https://fr.wikipedia.org/wiki/Crise_des_otages_am%C3%A9ricains_en_Iran",
-   "photo": {}
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Man_holding_sign_during_Iranian_hostage_crisis_protest%2C_1979.jpg/1920px-Man_holding_sign_during_Iranian_hostage_crisis_protest%2C_1979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Marion S. Trikosko",
+    "licence": "Public domain",
+    "licence_url": "",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Man_holding_sign_during_Iranian_hostage_crisis_protest,_1979.jpg",
+    "restrictions": ""
+   }
   },
   {
    "annee": 2025,
