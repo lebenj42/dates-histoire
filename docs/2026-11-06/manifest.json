@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "genere_le": "2026-11-06T12:50:45",
+ "genere_le": "2026-11-06T14:03:36",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,30 +11,22 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 6 novembre\n\n1792 · La bataille de Jemappes est remportée par la France révolutionnaire face au…\n1860 · Abraham Lincoln devient le 16e président des États-Unis\n1937 · Adhésion de l'Italie fasciste au pacte anti-Komintern réunissant l'Allemagne nazie et…\n1975 · Début de la Marche verte lancée par le roi du Maroc Hassan II sur le Sahara espagnol\n1984 · Réélection de Ronald Reagan à la présidence des États-Unis\n2024 · Aux États-Unis, Donald Trump remporte l'élection présidentielle…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1792 : Arugami42 · CC BY-SA 4.0 · Wikimedia Commons\n1860 : Adam Cuerden · Public domain · Wikimedia Commons\n1937 : Unknown authorUnknown author · CC BY-SA 4.0 · Wikimedia Commons\n1975 : Duch.seb · CC BY-SA 3.0 · Wikimedia Commons\n1984 : Michael Evans · Public domain · Wikimedia Commons\n2024 : Michael Vadon · CC BY-SA 2.0 · Flickr\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 6 novembre\n\n1792 · La bataille de Jemappes est remportée par la France révolutionnaire face au…\n1860 · Abraham Lincoln devient le 16e président des États-Unis\n1937 · Adhésion de l'Italie fasciste au pacte anti-Komintern réunissant l'Allemagne nazie et…\n1975 · Début de la Marche verte lancée par le roi du Maroc Hassan II sur le Sahara espagnol\n1984 · Réélection de Ronald Reagan à la présidence des États-Unis\n2024 · Aux États-Unis, Donald Trump remporte l'élection présidentielle…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1860 : Adam Cuerden · Public domain · Wikimedia Commons\n1937 : Unknown authorUnknown author · CC BY-SA 4.0 · Wikimedia Commons\n1975 : Duch.seb · CC BY-SA 3.0 · Wikimedia Commons\n1984 : Michael Evans · Public domain · Wikimedia Commons\n2024 : Shealeah Craighead · Public domain · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1792,
    "titre": "La bataille de Jemappes est remportée par la France révolutionnaire face au…",
-   "resume": "Le Saint-Empire romain germanique, selon la terminologie francophone usuelle, est un État d'Europe ayant existé de 962 à 1806.",
+   "resume": "Le Saint-Empire romain germanique, selon la terminologie francophone usuelle, est un État d'Europe ayant existé de 962 (couronnement d'Otton Ier) à 1806 (abdication de François II).",
    "cle": "1792|Saint-Empire romain germanique",
    "vues_wikipedia": 21043,
    "score": 13.146,
    "url": "https://fr.wikipedia.org/wiki/Saint-Empire_romain_germanique",
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Le_Saint-Empire_romain_germanique%2C_1648..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "auteur": "Arugami42",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Le_Saint-Empire_romain_germanique,_1648..png",
-    "restrictions": ""
-   }
+   "photo": {}
   },
   {
    "annee": 1860,
    "titre": "Abraham Lincoln devient le 16e président des États-Unis",
-   "resume": "Abraham Lincoln, né le 12 février 1809 à Hodgenville (Kentucky) et mort assassiné le 15 avril 1865 à Washington, D.C., est un homme d'État américain.",
+   "resume": "Fort de cette renommée, il est choisi par le Parti républicain nouvellement formé pour représenter ses couleurs lors de l'élection présidentielle de 1860.",
    "cle": "1860|Abraham Lincoln",
    "vues_wikipedia": 17704,
    "score": 10.496,
@@ -52,7 +44,7 @@
   {
    "annee": 1937,
    "titre": "Adhésion de l'Italie fasciste au pacte anti-Komintern réunissant l'Allemagne nazie et…",
-   "resume": "L’histoire de l'Italie fasciste, couramment désignée en Italie sous le terme de double décennie fasciste ou simplement double décennie…",
+   "resume": "L’histoire de l'Italie fasciste, couramment désignée en Italie sous le terme de double décennie fasciste (ventennio fascista) ou simplement double décennie (ventennio)…",
    "cle": "1937|Histoire de l'Italie fasciste",
    "vues_wikipedia": 2676,
    "score": 11.355,
@@ -70,7 +62,7 @@
   {
    "annee": 1975,
    "titre": "Début de la Marche verte lancée par le roi du Maroc Hassan II sur le Sahara espagnol",
-   "resume": "Elle mobilise 350 000 volontaires civils marocains.",
+   "resume": "La marche est alors condamnée par la résolution 380 du Conseil de sécurité de l'ONU, qui considère que celle-ci contourne la décision rendue par la CIJ trois semaines plus tôt.",
    "cle": "1975|Marche verte",
    "vues_wikipedia": 2749,
    "score": 11.379,
@@ -88,7 +80,7 @@
   {
    "annee": 1984,
    "titre": "Réélection de Ronald Reagan à la présidence des États-Unis",
-   "resume": "Ronald Wilson Reagan, né le 6 février 1911 à Tampico (Illinois) et mort le 5 juin 2004 à Los Angeles (Californie), est un acteur et homme d'État américain.",
+   "resume": "Élevé à Dixon dans l'Illinois, Ronald Reagan est titulaire d'une licence en économie et en sociologie. Il est réélu à une écrasante majorité en 1984, remportant 49 des 50 États.",
    "cle": "1984|Ronald Reagan",
    "vues_wikipedia": 21029,
    "score": 10.646,
@@ -106,18 +98,18 @@
   {
    "annee": 2024,
    "titre": "Aux États-Unis, Donald Trump remporte l'élection présidentielle…",
-   "resume": "Membre du Parti républicain, il est le 45e et 47e président des États-Unis, en fonction du 20 janvier 2017 au 20 janvier 2021 et depuis le 20 janvier 2025.",
+   "resume": "Après une campagne marquée par deux tentatives d'assassinat et le soutien de l'homme d'affaires Elon Musk, Donald Trump remporte l'élection présidentielle de 2024 face à la candidate démocrate Kamala Harris.",
    "cle": "2024|Donald Trump",
    "vues_wikipedia": 83191,
    "score": 11.84,
    "url": "https://fr.wikipedia.org/wiki/Donald_Trump",
    "photo": {
-    "url": "https://live.staticflickr.com/5810/21134663472_c11bc28666_b.jpg",
-    "auteur": "Michael Vadon",
-    "licence": "CC BY-SA 2.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-    "source": "Flickr",
-    "page": "https://www.flickr.com/photos/80038275@N00/21134663472",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1920px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Shealeah Craighead",
+    "licence": "Public domain",
+    "licence_url": "",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg",
     "restrictions": ""
    }
   }
