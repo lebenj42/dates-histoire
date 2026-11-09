@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "genere_le": "2026-11-09T13:44:23",
+ "genere_le": "2026-11-09T15:46:10",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 9 novembre\n\n1799 · Le coup d'État du 18 Brumaire aboutit à la prise de pouvoir de Napoléon Bonaparte…\n1918 · Abdication de l'empereur allemand Guillaume II et proclamation à Berlin de la…\n1923 · Adolf Hitler et plusieurs membres du NSDAP sont arrêtés après avoir tenté de prendre…\n1938 · Nuit de Cristal, persécutions contre les Juifs organisées par le régime nazi en…\n1970 · Mort du général de Gaulle, ancien chef de la résistance\n1989 · Chute du mur de Berlin\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1799 : Jean-Pierre Houël · Public domain · Wikimedia Commons\n1918 : Anonyme, graveur en médailles - Médailleur · CC0 · Wikimedia Commons\n1923 : UnknownUnknown · CC BY-SA 3.0 de · Wikimedia Commons\n1970 : Didier Descouens · CC BY-SA 4.0 · Wikimedia Commons\n1989 : Juggling_on_the_Berlin_Wall_1.jpg: Yann Forget derivative wo · CC BY-SA 3.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 9 novembre\n\n1799 · Le coup d'État du 18 Brumaire aboutit à la prise de pouvoir de Napoléon Bonaparte…\n1918 · Abdication de l'empereur allemand Guillaume II et proclamation à Berlin de la…\n1923 · Adolf Hitler et plusieurs membres du NSDAP sont arrêtés après avoir tenté de prendre…\n1938 · Nuit de Cristal, persécutions contre les Juifs organisées par le régime nazi en…\n1970 · Mort du général de Gaulle, ancien chef de la résistance\n1989 · Chute du mur de Berlin\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1799 : Jean-Pierre Houël · Public domain · Wikimedia Commons\n1918 : Anonyme, graveur en médailles - Médailleur · CC0 · Wikimedia Commons\n1938 : Unknown authorUnknown author · Public domain · Wikimedia Commons\n1970 : Didier Descouens · CC BY-SA 4.0 · Wikimedia Commons\n1989 : Juggling_on_the_Berlin_Wall_1.jpg: Yann Forget derivative wo · CC BY-SA 3.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1799,
@@ -57,15 +57,7 @@
    "vues_wikipedia": 55564,
    "score": 13.99,
    "url": "https://fr.wikipedia.org/wiki/Adolf_Hitler",
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bundesarchiv_Bild_121-0723%2C_Marburg-Drau%2C_Adolf_Hitler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "auteur": "UnknownUnknown",
-    "licence": "CC BY-SA 3.0 de",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_121-0723,_Marburg-Drau,_Adolf_Hitler.jpg",
-    "restrictions": "nazi"
-   }
+   "photo": {}
   },
   {
    "annee": 1938,
@@ -75,7 +67,15 @@
    "vues_wikipedia": 5782,
    "score": 12.024,
    "url": "https://fr.wikipedia.org/wiki/Nuit_de_Cristal",
-   "photo": {}
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/The_day_after_Kristallnacht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "Unknown authorUnknown author",
+    "licence": "Public domain",
+    "licence_url": "",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:The_day_after_Kristallnacht.jpg",
+    "restrictions": ""
+   }
   },
   {
    "annee": 1970,
