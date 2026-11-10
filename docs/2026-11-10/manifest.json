@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "genere_le": "2026-11-10T13:22:10",
+ "genere_le": "2026-11-10T14:40:15",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 10 novembre\n\n1444 · La bataille de Varna, dans l'actuelle Bulgarie, est remportée par l'Empire ottoman…\n1630 · Lors de la journée des Dupes, Louis XIII réitère sa confiance au cardinal de…\n1813 · La coalition britannico-hispanico-portugaise vainc la France napoléonienne à la…\n1859 · Le traité de Zurich met fin à la campagne d'Italie remportée par la coalition…\n1928 · Intronisation de l'empereur du Japon Hirohito\n1937 · Instauration de l'Estado Novo au Brésil\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1444 : Original: Kandi Derivative: باسم · Public domain · Wikimedia Commons\n1813 : Ruedi33a · CC BY-SA 4.0 · Wikimedia Commons\n1859 : Uploadalt · CC BY-SA 3.0 · Wikimedia Commons\n1928 : Fujiwara no Nobuzane · Public domain · Wikimedia Commons\n1937 : GualdimG · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 10 novembre\n\n1444 · La bataille de Varna, dans l'actuelle Bulgarie, est remportée par l'Empire ottoman…\n1630 · Lors de la journée des Dupes, Louis XIII réitère sa confiance au cardinal de…\n1799 · Deuxième journée du coup d'État du 18 brumaire\n1813 · La coalition britannico-hispanico-portugaise vainc la France napoléonienne à la…\n1859 · Le traité de Zurich met fin à la campagne d'Italie remportée par la coalition…\n1937 · Instauration de l'Estado Novo au Brésil\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1630 : Auteur inconnu · Public domain · Wikimedia Commons\n1799 : Domaine national de Saint-Cloud · CC BY-SA 4.0 · Wikimedia Commons\n1813 : Ruedi33a · CC BY-SA 4.0 · Wikimedia Commons\n1859 : Uploadalt · CC BY-SA 3.0 · Wikimedia Commons\n1937 : GualdimG · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1444,
@@ -21,15 +21,7 @@
    "vues_wikipedia": 868,
    "score": 10.378,
    "url": "https://fr.wikipedia.org/wiki/Bataille_de_Varna",
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Battle_of_Varna-ar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "auteur": "Original: Kandi Derivative: باسم",
-    "licence": "Public domain",
-    "licence_url": "",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Varna-ar.png",
-    "restrictions": ""
-   }
+   "photo": {}
   },
   {
    "annee": 1630,
@@ -39,7 +31,33 @@
    "vues_wikipedia": 1268,
    "score": 10.707,
    "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_des_Dupes",
-   "photo": {}
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/La_Journ%C3%A9e_des_dupes_-_sc%C3%A9nario_-_btv1b6407000t_%283_of_3%29.jpg/1920px-La_Journ%C3%A9e_des_dupes_-_sc%C3%A9nario_-_btv1b6407000t_%283_of_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Auteur inconnu",
+    "licence": "Public domain",
+    "licence_url": "",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:La_Journ%C3%A9e_des_dupes_-_sc%C3%A9nario_-_btv1b6407000t_(3_of_3).jpg",
+    "restrictions": ""
+   }
+  },
+  {
+   "annee": 1799,
+   "titre": "Deuxième journée du coup d'État du 18 brumaire",
+   "resume": "Bien que les événements décisifs se déroulent le 19 brumaire au château de Saint-Cloud où siègent le Conseil des Cinq-Cents et le Conseil des Anciens, c'est le 18 que les conjurés mettent en place le dispositif du coup d'État.",
+   "cle": "1799|Coup d'État du 18 Brumaire",
+   "vues_wikipedia": 5089,
+   "score": 9.413,
+   "url": "https://fr.wikipedia.org/wiki/Coup_d'%C3%89tat_du_18_Brumaire",
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Coup_d%27%C3%89tat_du_18_Brumaire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "Domaine national de Saint-Cloud",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Coup_d%27%C3%89tat_du_18_Brumaire.jpg",
+    "restrictions": ""
+   }
   },
   {
    "annee": 1813,
@@ -74,24 +92,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
     "source": "Wikimedia Commons",
     "page": "https://commons.wikimedia.org/wiki/File:Medaille_Italie_2ieme_type.jpg",
-    "restrictions": ""
-   }
-  },
-  {
-   "annee": 1928,
-   "titre": "Intronisation de l'empereur du Japon Hirohito",
-   "resume": "L'empereur du Japon (天皇, Tennō, littéralement Souverain du ciel ou Souverain céleste) est le chef de l'État monarchique du Japon.",
-   "cle": "1928|Empereur du Japon",
-   "vues_wikipedia": 5663,
-   "score": 9.506,
-   "url": "https://fr.wikipedia.org/wiki/Empereur_du_Japon",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Emperor_Go-Toba.jpg/1920px-Emperor_Go-Toba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Fujiwara no Nobuzane",
-    "licence": "Public domain",
-    "licence_url": "",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Emperor_Go-Toba.jpg",
     "restrictions": ""
    }
   },
