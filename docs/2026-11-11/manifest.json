@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "genere_le": "2026-11-11T12:34:43",
+ "genere_le": "2026-11-11T13:57:01",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 11 novembre\n\n1918 · Signature de l'armistice de 1918, fin de la Première Guerre mondiale (début de…\n1918 · La signature de l'armistice à 5 h 15 par les Alliés et l'Allemagne dans la clairière…\n1942 · En France, pendant la Seconde Guerre mondiale, l'opération Anton donne lieu à…\n1972 · La grande base américaine de Long Binh est remise aux autorités sud-vietnamiennes…\n1982 · Première mission opérationnelle de la navette spatiale américaine Columbia\n1992 · L'Église anglicane d'Angleterre autorise l'ordination des femmes\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1918 : Bouisset, Firmin (Moissac, 02–09–1859 - Paris, 19–03–1925),  · CC0 · Wikimedia Commons\n1942 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1972 : Unknown authorUnknown author or not provided · Public domain · Wikimedia Commons\n1982 : NASA · Public domain · Wikimedia Commons\n1992 : Perituss · CC0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 11 novembre\n\n1918 · Signature de l'armistice de 1918, fin de la Première Guerre mondiale (début de…\n1918 · La signature de l'armistice à 5 h 15 par les Alliés et l'Allemagne dans la clairière…\n1942 · En France, pendant la Seconde Guerre mondiale, l'opération Anton donne lieu à…\n1942 · Adolf Hitler choisit d'envahir et d'occuper la zone dite libre en France (opération…\n1982 · Première mission opérationnelle de la navette spatiale américaine Columbia\n1992 · L'Église anglicane d'Angleterre autorise l'ordination des femmes\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1918 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1918 : Bouisset, Firmin (Moissac, 02–09–1859 - Paris, 19–03–1925),  · CC0 · Wikimedia Commons\n1942 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1942 : UnknownUnknown · CC BY-SA 3.0 de · Wikimedia Commons\n1982 : NASA · Public domain · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1918,
@@ -21,12 +21,20 @@
    "vues_wikipedia": 35997,
    "score": 11.113,
    "url": "https://fr.wikipedia.org/wiki/Premi%C3%A8re_Guerre_mondiale",
-   "photo": {}
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg/1920px-Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Gzen92",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_(Dieffenthal).jpg",
+    "restrictions": ""
+   }
   },
   {
    "annee": 1918,
    "titre": "La signature de l'armistice à 5 h 15 par les Alliés et l'Allemagne dans la clairière…",
-   "resume": "Les Alliés de la Première Guerre mondiale, parfois appelés Forces de l'Entente ou Triple-Entente, sont la coalition formée tout au long de la Première Guerre mondiale entre plusieurs pays: principalement la France…",
+   "resume": "Les Alliés de la Première Guerre mondiale, parfois appelés Forces de l'Entente ou Triple-Entente, sont la coalition formée tout au long de la Première Guerre mondiale entre plusieurs pays: principalement la France, l'Italie…",
    "cle": "1918|Alliés de la Première Guerre mondiale",
    "vues_wikipedia": 1683,
    "score": 10.953,
@@ -60,27 +68,27 @@
    }
   },
   {
-   "annee": 1972,
-   "titre": "La grande base américaine de Long Binh est remise aux autorités sud-vietnamiennes…",
-   "resume": "Cette guerre ne fut jamais déclarée. La guerre du Vietnam contribue incidemment à provoquer la guerre civile cambodgienne entre le gouvernement cambodgien soutenu par les États-Unis et les Khmers rouges soutenus par les Nord-Vietnamiens.",
-   "cle": "1972|Guerre du Vietnam",
-   "vues_wikipedia": 17304,
-   "score": 10.476,
-   "url": "https://fr.wikipedia.org/wiki/Guerre_du_Vietnam",
+   "annee": 1942,
+   "titre": "Adolf Hitler choisit d'envahir et d'occuper la zone dite libre en France (opération…",
+   "resume": "Adolf Hitler, né le 20 avril 1889 à Braunau am Inn (Autriche-Hongrie) et mort suicidé le 30 avril 1945 à Berlin, est un idéologue d'extrême droite et un homme d'État allemand d'origine autrichienne.",
+   "cle": "1942|Adolf Hitler",
+   "vues_wikipedia": 55564,
+   "score": 11.49,
+   "url": "https://fr.wikipedia.org/wiki/Adolf_Hitler",
    "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Thuong_Duc%2C_Vietnam_-_A_Viet_Cong_prisoner_awaits_interrogation_at_the_A-109_Special_Forces_Detachment_in_Thuong_-_NARA_-_531447.jpg/1920px-Thuong_Duc%2C_Vietnam_-_A_Viet_Cong_prisoner_awaits_interrogation_at_the_A-109_Special_Forces_Detachment_in_Thuong_-_NARA_-_531447.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Unknown authorUnknown author or not provided",
-    "licence": "Public domain",
-    "licence_url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bundesarchiv_Bild_121-0723%2C_Marburg-Drau%2C_Adolf_Hitler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "UnknownUnknown",
+    "licence": "CC BY-SA 3.0 de",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
     "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Thuong_Duc,_Vietnam_-_A_Viet_Cong_prisoner_awaits_interrogation_at_the_A-109_Special_Forces_Detachment_in_Thuong_-_NARA_-_531447.jpg",
-    "restrictions": ""
+    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_121-0723,_Marburg-Drau,_Adolf_Hitler.jpg",
+    "restrictions": "nazi"
    }
   },
   {
    "annee": 1982,
    "titre": "Première mission opérationnelle de la navette spatiale américaine Columbia",
-   "resume": "La navette est imaginée dès les années 1960 pour être entièrement réutilisable afin de remplacer les lanceurs à usage unique tels ceux du programme Apollo et offrir un accès routinier à l'espace, d'où son nom.",
+   "resume": "La navette spatiale américaine est un lanceur et un véhicule spatial conçu et opéré par l'agence spatiale américaine la NASA de 1981 à 2011 pour envoyer des astronautes et des charges utiles en orbite basse terrestre…",
    "cle": "1982|Navette spatiale américaine",
    "vues_wikipedia": 2762,
    "score": 11.383,
@@ -98,20 +106,12 @@
   {
    "annee": 1992,
    "titre": "L'Église anglicane d'Angleterre autorise l'ordination des femmes",
-   "resume": "L'Angleterre devient un État unifié en 927, et a une influence culturelle et juridique considérable sur le reste du monde, depuis les grandes découvertes.",
+   "resume": "Elle est entourée par le pays de Galles à l'ouest et l'Écosse au nord, et par la mer d'Irlande au nord-ouest, la mer Celtique au sud-ouest, la mer du Nord à l'est, et la Manche au sud, qui la sépare de l'Europe continentale.",
    "cle": "1992|Angleterre",
    "vues_wikipedia": 18169,
    "score": 10.519,
    "url": "https://fr.wikipedia.org/wiki/Angleterre",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Angleterre_Hotel.jpg/1920px-Angleterre_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Perituss",
-    "licence": "CC0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Angleterre_Hotel.jpg",
-    "restrictions": ""
-   }
+   "photo": {}
   }
  ]
 }
