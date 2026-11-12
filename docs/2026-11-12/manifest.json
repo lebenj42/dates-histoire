@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "genere_le": "2026-11-12T13:39:12",
+ "genere_le": "2026-11-12T14:57:14",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 12 novembre\n\n1920 · Signature du premier traité de Rapallo entre l'Italie et le royaume des Serbes…\n1927 · Exclusion de Léon Trotski du Parti communiste de l'Union soviétique\n1937 · Inauguration de l'aérogare de l’aéroport international du Bourget\n1970 · Obsèques de Charles de Gaulle, enterré auprès de sa fille Anne…\n2014 · Atterrissage du module Philae de la sonde spatiale Rosetta sur la comète « Tchouri »\n2023 · Effondrement du tunnel de l'Uttarakhand (Inde) en 2023. 41 employés ont été enfermés…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1920 : Léon Auguste · CC0 · Wikimedia Commons\n1927 : Shakko · CC BY-SA 4.0 · Wikimedia Commons\n1937 : T A · CC BY-SA 2.0 · Wikimedia Commons\n1970 : Didier Descouens · CC BY-SA 4.0 · Wikimedia Commons\n2014 : ESA/ATG medialab · CC BY-SA 2.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 12 novembre\n\n1920 · Signature du premier traité de Rapallo entre l'Italie et le royaume des Serbes…\n1927 · Exclusion de Léon Trotski du Parti communiste de l'Union soviétique\n1937 · Inauguration de l'aérogare de l’aéroport international du Bourget\n1956 · Admission du Maroc, du Soudan et de la Tunisie à l'ONU\n1970 · Obsèques de Charles de Gaulle, enterré auprès de sa fille Anne…\n2014 · Atterrissage du module Philae de la sonde spatiale Rosetta sur la comète « Tchouri »\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1920 : Léon Auguste · CC0 · Wikimedia Commons\n1927 : Shakko · CC BY-SA 4.0 · Wikimedia Commons\n1937 : T A · CC BY-SA 2.0 · Wikimedia Commons\n1956 : Rosa Cabecinhas and Alcino Cunha · CC BY-SA 2.0 · Wikimedia Commons\n1970 : Didier Descouens · CC BY-SA 4.0 · Wikimedia Commons\n2014 : ESA/ATG medialab · CC BY-SA 2.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1920,
@@ -68,6 +68,24 @@
    }
   },
   {
+   "annee": 1956,
+   "titre": "Admission du Maroc, du Soudan et de la Tunisie à l'ONU",
+   "resume": "Le Maroc se compose de zones montagneuses ou désertiques, et il est un des seuls pays — avec l'Espagne et la France — à comporter des rivages sur la mer Méditerranée d'un côté et l'océan Atlantique de l'autre.",
+   "cle": "1956|Maroc",
+   "vues_wikipedia": 43490,
+   "score": 11.277,
+   "url": "https://fr.wikipedia.org/wiki/Maroc",
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Morocco_Africa_Flickr_Rosino_December_2005_84514010_edited_by_Buchling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "Rosa Cabecinhas and Alcino Cunha",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Morocco_Africa_Flickr_Rosino_December_2005_84514010_edited_by_Buchling.jpg",
+    "restrictions": ""
+   }
+  },
+  {
    "annee": 1970,
    "titre": "Obsèques de Charles de Gaulle, enterré auprès de sa fille Anne…",
    "resume": "Pendant la Seconde Guerre mondiale, Charles de Gaulle fonde la France libre; à la Libération, il préside le gouvernement provisoire à partir de 1944 jusqu'en 1946.",
@@ -102,16 +120,6 @@
     "page": "https://commons.wikimedia.org/wiki/File:Rosetta_spacecraft_model.png",
     "restrictions": ""
    }
-  },
-  {
-   "annee": 2023,
-   "titre": "Effondrement du tunnel de l'Uttarakhand (Inde) en 2023. 41 employés ont été enfermés…",
-   "resume": "Avec une population de plus de 1,481 milliard d'habitants en novembre 2026, l'Inde est le pays le plus peuplé au monde ainsi que le septième pays le plus étendu.",
-   "cle": "2023|Inde",
-   "vues_wikipedia": 22777,
-   "score": 10.715,
-   "url": "https://fr.wikipedia.org/wiki/Inde",
-   "photo": {}
   }
  ]
 }
