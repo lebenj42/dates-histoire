@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "genere_le": "2026-11-13T12:58:35",
+ "genere_le": "2026-11-13T14:21:18",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 13 novembre\n\n1002 · Massacre de la Saint-Brice, organisé par le roi d'Angleterre Æthelred le Malavisé à…\n1830 · Mise en vente du roman Le Rouge et le Noir, de Stendhal\n1917 · Première Guerre mondiale: début de la première bataille de Monte Grappa (en Italie…\n1956 · La Cour suprême des États-Unis déclare anticonstitutionnelles les lois…\n1985 · Éruption catastrophique du Nevado del Ruiz en Colombie, faisant 25 000 morts\n1994 · Le pilote allemand Michael Schumacher remporte à Adelaide en Australie son premier…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1002 : Alfred Pearse · Public domain · Wikimedia Commons\n1917 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1956 : Photo by Mr. Kjetil Ree. · CC BY-SA 3.0 · Wikimedia Commons\n1985 : Jeffrey Marso, USGS geologist · Public domain · Wikimedia Commons\n1994 : Rick Dikeman · CC BY-SA 3.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 13 novembre\n\n1002 · Massacre de la Saint-Brice, organisé par le roi d'Angleterre Æthelred le Malavisé à…\n1830 · Mise en vente du roman Le Rouge et le Noir, de Stendhal\n1956 · La Cour suprême des États-Unis déclare anticonstitutionnelles les lois…\n1985 · Éruption catastrophique du Nevado del Ruiz en Colombie, faisant 25 000 morts\n1994 · Le pilote allemand Michael Schumacher remporte à Adelaide en Australie son premier…\n2015 · En France, une série d’attentats revendiquée par l’organisation \"État islamique\"…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1830 : FR · CC BY-SA 4.0 · Wikimedia Commons\n1956 : Photo by Mr. Kjetil Ree. · CC BY-SA 3.0 · Wikimedia Commons\n1985 : Jeffrey Marso, USGS geologist · Public domain · Wikimedia Commons\n1994 : Rick Dikeman · CC BY-SA 3.0 · Wikimedia Commons\n2015 : ERIC SALARD, Chris93, Maya-Anaïs Yataghène, Mstyslav Chernov · CC BY-SA 4.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1002,
@@ -21,15 +21,7 @@
    "vues_wikipedia": 562,
    "score": 10.001,
    "url": "https://fr.wikipedia.org/wiki/Massacre_de_la_Saint-Brice",
-   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Alfred_Pearse_-_The_Massacre_of_St_Brices_Day%2C_1002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "auteur": "Alfred Pearse",
-    "licence": "Public domain",
-    "licence_url": "",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Alfred_Pearse_-_The_Massacre_of_St_Brices_Day,_1002.jpg",
-    "restrictions": ""
-   }
+   "photo": {}
   },
   {
    "annee": 1830,
@@ -39,23 +31,13 @@
    "vues_wikipedia": 80058,
    "score": 11.807,
    "url": "https://fr.wikipedia.org/wiki/Le_Rouge_et_le_Noir",
-   "photo": {}
-  },
-  {
-   "annee": 1917,
-   "titre": "Première Guerre mondiale: début de la première bataille de Monte Grappa (en Italie…",
-   "resume": "La Première Guerre mondiale, aussi appelée la « Grande Guerre », est un conflit militaire impliquant dans un premier temps les puissances européennes et s'étendant ensuite à plusieurs continents. Cette guerre s'est déroulée de 1914 à 1918.",
-   "cle": "1917|Première Guerre mondiale",
-   "vues_wikipedia": 35997,
-   "score": 11.113,
-   "url": "https://fr.wikipedia.org/wiki/Premi%C3%A8re_Guerre_mondiale",
    "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg/1920px-Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Gzen92",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Le_Rouge_et_le_Noir_-_Troupe_2.jpg/1920px-Le_Rouge_et_le_Noir_-_Troupe_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "FR",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_(Dieffenthal).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Le_Rouge_et_le_Noir_-_Troupe_2.jpg",
     "restrictions": ""
    }
   },
@@ -110,6 +92,24 @@
     "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
     "source": "Wikimedia Commons",
     "page": "https://commons.wikimedia.org/wiki/File:Michael_Schumacher_Ferrari_2004.jpg",
+    "restrictions": ""
+   }
+  },
+  {
+   "annee": 2015,
+   "titre": "En France, une série d’attentats revendiquée par l’organisation \"État islamique\"…",
+   "resume": "Le personnel de sécurité leur refusant de pénétrer dans l'enceinte du stade, trois terroristes se font exploser dans ce qui constitue les tout premiers attentats-suicides en France. Ces attentats ont de nombreuses conséquences sécuritaires.",
+   "cle": "2015|Attentats du 13 novembre 2015 en France",
+   "vues_wikipedia": 33068,
+   "score": 11.039,
+   "url": "https://fr.wikipedia.org/wiki/Attentats_du_13_novembre_2015_en_France",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/13_November_2015_Paris_attacks_-_montage.jpg/1920px-13_November_2015_Paris_attacks_-_montage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "ERIC SALARD, Chris93, Maya-Anaïs Yataghène, Mstyslav Chernov",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:13_November_2015_Paris_attacks_-_montage.jpg",
     "restrictions": ""
    }
   }
