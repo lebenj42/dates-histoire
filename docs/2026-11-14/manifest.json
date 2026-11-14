@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "genere_le": "2026-11-14T12:04:18",
+ "genere_le": "2026-11-14T13:21:06",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,12 +11,12 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 14 novembre\n\n1913 · Publication à compte d'auteur du roman de Marcel Proust Du côté de chez Swann…\n1913 · Parution du premier tome du roman de Marcel Proust Du côté de chez Swann\n1944 · Offensive française de la 1re armée en direction de Belfort. De Lattre de Tassigny…\n2003 · À Taipei (Taïwan), inauguration de la plus haute tour du monde…\n2009 · Accident de la circulation entre une voiture et un bus à Loverval, en Belgique…\n2010 · En France, Nicolas Sarkozy, président de la République…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1913 : Éditions de la Nouvelle Revue française · Public domain · Wikimedia Commons\n1913 : Benjamin Smith · CC BY-SA 4.0 · Wikimedia Commons\n1944 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n2003 : Journalist 1st Class Preston Keres · Public domain · Wikimedia Commons\n2009 : Alvesgaspar · CC BY-SA 3.0 · Wikimedia Commons\n2010 : European People's Party · CC BY 2.0 · Wikimedia\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 14 novembre\n\n1913 · Publication à compte d'auteur du roman de Marcel Proust Du côté de chez Swann…\n1913 · Parution du premier tome du roman de Marcel Proust Du côté de chez Swann\n1944 · Offensive française de la 1re armée en direction de Belfort. De Lattre de Tassigny…\n2005 · En Russie, Vladimir Poutine nomme Dmitri Anatolievitch Medvedev au poste de…\n2005 · En France, Jacques Chirac annonce la création d'un service civil volontaire…\n2010 · En France, Nicolas Sarkozy, président de la République…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1913 : Éditions de la Nouvelle Revue française · Public domain · Wikimedia Commons\n1913 : Benjamin Smith · CC BY-SA 4.0 · Wikimedia Commons\n1944 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n2005 : Unknown authorUnknown author · CC BY 4.0 · Wikimedia Commons\n2010 : א (Aleph) · CC BY-SA 2.5 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1913,
    "titre": "Publication à compte d'auteur du roman de Marcel Proust Du côté de chez Swann…",
-   "resume": "Plutôt que le récit d'une séquence déterminée d'événements, cette œuvre s'intéresse non pas aux souvenirs du narrateur mais à une réflexion psychologique sur la littérature, sur la mémoire et sur le temps.",
+   "resume": "À la recherche du temps perdu est parfois considéré comme l'une des plus importantes œuvres littéraires de tous les temps.",
    "cle": "1913|À la recherche du temps perdu",
    "vues_wikipedia": 13665,
    "score": 12.771,
@@ -68,56 +68,48 @@
    }
   },
   {
-   "annee": 2003,
-   "titre": "À Taipei (Taïwan), inauguration de la plus haute tour du monde…",
-   "resume": "À son achèvement, la tour nord dépasse l'Empire State Building et devient le plus haut gratte-ciel du monde, record qu'elle ne conserve qu'un mois, jusqu'à la finalisation de la Willis Tower de Chicago.",
-   "cle": "2003|World Trade Center",
-   "vues_wikipedia": 36967,
-   "score": 11.136,
-   "url": "https://fr.wikipedia.org/wiki/World_Trade_Center",
+   "annee": 2005,
+   "titre": "En Russie, Vladimir Poutine nomme Dmitri Anatolievitch Medvedev au poste de…",
+   "resume": "Une fois élu chef de l'État, ce dernier nomme Poutine président du gouvernement, qui prend par ailleurs la direction du parti Russie unie et reste l'homme fort du pays, avec un président apparaissant comme plus libéral.",
+   "cle": "2005|Vladimir Poutine",
+   "vues_wikipedia": 59527,
+   "score": 11.549,
+   "url": "https://fr.wikipedia.org/wiki/Vladimir_Poutine",
    "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/September_14_2001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "auteur": "Journalist 1st Class Preston Keres",
-    "licence": "Public domain",
-    "licence_url": "",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Vladimir_Putin_in_KGB_uniform.jpg/1920px-Vladimir_Putin_in_KGB_uniform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Unknown authorUnknown author",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
     "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:September_14_2001.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_in_KGB_uniform.jpg",
     "restrictions": ""
    }
   },
   {
-   "annee": 2009,
-   "titre": "Accident de la circulation entre une voiture et un bus à Loverval, en Belgique…",
-   "resume": "La Belgique couvre une superficie de 30 688 km2 avec une population de 11 825 551 habitants au 1er janvier 2025, soit une densité de 385 habitants/km2.",
-   "cle": "2009|Belgique",
-   "vues_wikipedia": 41995,
-   "score": 11.246,
-   "url": "https://fr.wikipedia.org/wiki/Belgique",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Ghent_April_2012-2.jpg/1920px-Ghent_April_2012-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Alvesgaspar",
-    "licence": "CC BY-SA 3.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Ghent_April_2012-2.jpg",
-    "restrictions": ""
-   }
+   "annee": 2005,
+   "titre": "En France, Jacques Chirac annonce la création d'un service civil volontaire…",
+   "resume": "Élu député de la Corrèze, il est plusieurs fois secrétaire d'État et ministre. Deux ans plus tard, dans un contexte de tensions avec l'Élysée, il démissionne et lance le RPR.",
+   "cle": "2005|Jacques Chirac",
+   "vues_wikipedia": 45846,
+   "score": 11.323,
+   "url": "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+   "photo": {}
   },
   {
    "annee": 2010,
    "titre": "En France, Nicolas Sarkozy, président de la République…",
-   "resume": "Il est président de la République française du 16 mai 2007 au 15 mai 2012.",
+   "resume": "Il exerce d'abord les fonctions de maire de Neuilly-sur-Seine, de député, de ministre du Budget et de porte-parole du gouvernement, ainsi que de président par intérim du Rassemblement pour la République (RPR).",
    "cle": "2010|Nicolas Sarkozy",
    "vues_wikipedia": 46231,
    "score": 10.83,
    "url": "https://fr.wikipedia.org/wiki/Nicolas_Sarkozy",
    "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nicolas_Sarkozy_in_2010.jpg",
-    "auteur": "European People's Party",
-    "licence": "CC BY 2.0",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
-    "source": "Wikimedia",
-    "page": "https://commons.wikimedia.org/w/index.php?curid=12162667",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Nicolas_Sarkozy_%282008%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "auteur": "א (Aleph)",
+    "licence": "CC BY-SA 2.5",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Sarkozy_(2008).jpg",
     "restrictions": ""
    }
   }
