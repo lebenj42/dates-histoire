@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "genere_le": "2026-11-16T13:29:28",
+ "genere_le": "2026-11-16T15:22:47",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -16,7 +16,7 @@
   {
    "annee": 1532,
    "titre": "Les conquistadors espagnols capturent l'empereur inca Atahualpa lors de la bataille…",
-   "resume": "La bataille de Cajamarca (aussi appelée capture d'Atahualpa) est une attaque-surprise menée par Francisco Pizarro contre l'entourage de l'Inca Atahualpa.",
+   "resume": "La bataille de Cajamarca est une attaque-surprise menée par Francisco Pizarro contre l'entourage de l'Inca Atahualpa.",
    "cle": "1532|Bataille de Cajamarca",
    "vues_wikipedia": 358,
    "score": 9.61,
@@ -34,7 +34,7 @@
   {
    "annee": 1848,
    "titre": "L'Assemblée fédérale suisse élit le premier Conseil fédéral",
-   "resume": "L'Assemblée fédérale (en allemand: Bundesversammlung; en italien: Assemblea federale; en romanche: Assamblea federala) est le pouvoir législatif et l'autorité suprême de la Suisse (sous réserve des droits du peuple et des cantons).",
+   "resume": "L'Assemblée fédérale est le pouvoir législatif et l'autorité suprême de la Suisse.",
    "cle": "1848|Assemblée fédérale (Suisse)",
    "vues_wikipedia": 1280,
    "score": 10.215,
@@ -52,10 +52,10 @@
   {
    "annee": 1945,
    "titre": "Création de l'Organisation des Nations unies pour l'éducation…",
-   "resume": "Le siège de l'Unesco est situé à Paris, au 7 place de Fontenoy, dans le quartier de l'École-Militaire du 7e arrondissement.",
+   "resume": "L'Organisation des Nations unies pour l'éducation, la science et la culture est une institution spécialisée internationale de l'Organisation des Nations unies (ONU)…",
    "cle": "1945|Organisation des Nations unies pour l'éducation, la science et la culture",
-   "vues_wikipedia": 7858,
-   "score": 10.791,
+   "vues_wikipedia": 7854,
+   "score": 10.79,
    "url": "https://fr.wikipedia.org/wiki/Organisation_des_Nations_unies_pour_l'%C3%A9ducation%2C_la_science_et_la_culture",
    "photo": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Permanent_Delegate_of_Australia_to_the_United_Nations_Educational%2C_Scientific_and_Cultural_Organization_Greer_Alblas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -70,7 +70,7 @@
   {
    "annee": 1965,
    "titre": "Lancement de la sonde spatiale soviétique Venera 3 à destination de Vénus",
-   "resume": "En 1961, l'Union soviétique lance Venera, la première sonde amenée à étudier une autre planète que la Terre, en l'occurrence Vénus.",
+   "resume": "Une sonde spatiale présente généralement des caractéristiques uniques qui la distingue des autres engins spatiaux non habités, lesquels restent en orbite terrestre.",
    "cle": "1965|Sonde spatiale",
    "vues_wikipedia": 680,
    "score": 10.166,
@@ -108,7 +108,7 @@
    "titre": "Au Chili, Jeannette Jara et José Antonio Kast se qualifient pour le second tour de…",
    "resume": "Tout son territoire forme une étroite bande continentale allant du désert d'Atacama, au nord, jusqu'au cap Horn, au sud, étant exclusivement bordé par l'océan Pacifique sur sa façade ouest.",
    "cle": "2025|Chili",
-   "vues_wikipedia": 11825,
+   "vues_wikipedia": 11823,
    "score": 10.146,
    "url": "https://fr.wikipedia.org/wiki/Chili",
    "photo": {}
