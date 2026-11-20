@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "genere_le": "2026-11-20T13:57:40",
+ "genere_le": "2026-11-20T15:12:09",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 20 novembre\n\n1194 · Palerme est prise par l'empereur romain germanique Henri VI\n1815 · Le second traité de Paris marque la fin définitive du Premier Empire après l'épisode…\n1917 · Début de la bataille de Cambrai, opposant le Royaume-Uni et l'Allemagne lors de la…\n1945 · Ouverture du procès de Nuremberg, intenté par les Alliés de la Seconde Guerre…\n1945 · Ouverture du procès de Nuremberg\n1989 · Adoption de la Convention relative aux droits de l'enfant par l'Assemblée générale…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1194 : Meister des Codex Manesse · Public domain · Wikimedia Commons\n1815 : Krypt0n1t3099 · CC BY-SA 4.0 · Wikimedia Commons\n1945 : Bibliothèque et Archives nationales du Québec · Public domain · Wikimedia Commons\n1945 : Laura Knight · Public domain · Wikimedia Commons\n1989 : Post of Indonesia · Public domain · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 20 novembre\n\n1194 · Palerme est prise par l'empereur romain germanique Henri VI\n1815 · Le second traité de Paris marque la fin définitive du Premier Empire après l'épisode…\n1917 · Début de la bataille de Cambrai, opposant le Royaume-Uni et l'Allemagne lors de la…\n1945 · Ouverture du procès de Nuremberg, intenté par les Alliés de la Seconde Guerre…\n1945 · Ouverture du procès de Nuremberg\n1989 · Adoption de la Convention relative aux droits de l'enfant par l'Assemblée générale…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1194 : Meister des Codex Manesse · Public domain · Wikimedia Commons\n1917 : Gzen92 · CC BY-SA 4.0 · Wikimedia Commons\n1945 : Bibliothèque et Archives nationales du Québec · Public domain · Wikimedia Commons\n1945 : Laura Knight · Public domain · Wikimedia Commons\n1989 : Post of Indonesia · Public domain · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 1194,
@@ -39,15 +39,7 @@
    "vues_wikipedia": 11782,
    "score": 12.643,
    "url": "https://fr.wikipedia.org/wiki/Premier_Empire",
-   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_Map_of_Modern_Day_First_French_Empire.png/1920px-Flag_Map_of_Modern_Day_First_French_Empire.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "auteur": "Krypt0n1t3099",
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Flag_Map_of_Modern_Day_First_French_Empire.png",
-    "restrictions": ""
-   }
+   "photo": {}
   },
   {
    "annee": 1917,
@@ -57,7 +49,15 @@
    "vues_wikipedia": 35554,
    "score": 13.602,
    "url": "https://fr.wikipedia.org/wiki/Premi%C3%A8re_Guerre_mondiale",
-   "photo": {}
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg/1920px-Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_%28Dieffenthal%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Gzen92",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Monument_aux_morts_des_Premi%C3%A8re_et_Seconde_Guerres_mondiales_(Dieffenthal).jpg",
+    "restrictions": ""
+   }
   },
   {
    "annee": 1945,
