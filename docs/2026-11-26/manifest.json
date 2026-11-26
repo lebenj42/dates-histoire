@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "genere_le": "2026-11-26T14:52:17",
+ "genere_le": "2026-11-26T16:43:27",
  "slides": [
   "01.jpg",
   "02.jpg",
@@ -11,7 +11,7 @@
   "07.jpg",
   "08.jpg"
  ],
- "legende": "CE JOUR DANS L'HISTOIRE — 26 novembre\n\n985 · Fondation de la ville de Montpellier\n1812 · Début de la bataille de la Bérézina entre l'armée française et l'armée russe durant…\n1865 · À Londres, Lewis Carroll publie Les Aventures d'Alice au pays des merveilles\n1966 · En France, la plus grande usine marémotrice au monde est mise en service dans…\n2008 · En Inde, des attaques terroristes meutrières secouent Bombay durant trois jours\n2019 · En Albanie, au moins 50 personnes sont tuées, et plus de 650 autres blessées…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n1812 : January Suchodolski · Public domain · Wikimedia Commons\n1865 : David Revoy · CC BY 4.0 · Wikimedia Commons\n1966 : Sw271149 · CC BY-SA 4.0 · Wikimedia Commons\n2008 : Nicholas (Nichalp) · CC BY-SA 3.0 · Wikimedia Commons\n2019 : Pudelek · CC BY-SA 3.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
+ "legende": "CE JOUR DANS L'HISTOIRE — 26 novembre\n\n985 · Fondation de la ville de Montpellier\n1812 · Début de la bataille de la Bérézina entre l'armée française et l'armée russe durant…\n1865 · À Londres, Lewis Carroll publie Les Aventures d'Alice au pays des merveilles\n1966 · En France, la plus grande usine marémotrice au monde est mise en service dans…\n2008 · En Inde, des attaques terroristes meutrières secouent Bombay durant trois jours\n2019 · En Albanie, au moins 50 personnes sont tuées, et plus de 650 autres blessées…\n\nLequel de ces événements connaissais-tu ? Réponds en commentaire.\nEnregistre le carrousel pour le relire.\n\nCrédits photo (libres de droit) :\n985 : Wolfgang Staudt from Saarbruecken, Germany · CC BY 2.0 · Wikimedia Commons\n1812 : January Suchodolski · CC0 · Wikimedia\n1865 : David Revoy · CC BY 4.0 · Wikimedia Commons\n1966 : Sw271149 · CC BY-SA 4.0 · Wikimedia Commons\n2008 : Nicholas (Nichalp) · CC BY-SA 3.0 · Wikimedia Commons\n2019 : Pudelek · CC BY-SA 3.0 · Wikimedia Commons\n\nSource des faits : Wikipédia FR.\n\n#histoire #cejourdanslhistoire #culturegenerale #histoiredefrance #anecdotehistorique #saviezvous #histoiredumonde #apprendresurinstagram #archives #memoire #chroniquehistorique #ephemeride #passe #documentaire #culture",
  "evenements": [
   {
    "annee": 985,
@@ -21,7 +21,15 @@
    "vues_wikipedia": 25481,
    "score": 10.812,
    "url": "https://fr.wikipedia.org/wiki/Montpellier",
-   "photo": {}
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Place_de_la_Com%C3%A9die_%282377437375%29.jpg/1920px-Place_de_la_Com%C3%A9die_%282377437375%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "auteur": "Wolfgang Staudt from Saarbruecken, Germany",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "source": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Place_de_la_Com%C3%A9die_(2377437375).jpg",
+    "restrictions": ""
+   }
   },
   {
    "annee": 1812,
@@ -32,12 +40,12 @@
    "score": 11.786,
    "url": "https://fr.wikipedia.org/wiki/Bataille_de_la_B%C3%A9r%C3%A9zina",
    "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Berezyna.jpg/1920px-Berezyna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bataille_de_la_B%C3%A9r%C3%A9zina.jpg",
     "auteur": "January Suchodolski",
-    "licence": "Public domain",
-    "licence_url": "",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Berezyna.jpg",
+    "licence": "CC0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+    "source": "Wikimedia",
+    "page": "https://commons.wikimedia.org/w/index.php?curid=58877303",
     "restrictions": ""
    }
   },
